@@ -1,0 +1,4 @@
+# icons
+
+- ✅ completed
+- ☑️ partial completed
