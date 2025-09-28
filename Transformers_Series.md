@@ -1,4 +1,4 @@
-# Transformers
+# Transformers Series
 
 - [x]  Transformer - The Movie (1986)
 - [x]  Transformers (Michael Bay)
@@ -8,4 +8,4 @@
 - [x]  Transformers 5 (Michael Bay)
 - [x]  Transformers: Bumblebee
 - [x]  Transformers: Rise of the beast
-- [ ]  Transformers: One (2024)
+- [x]  Transformers: One (2024)
