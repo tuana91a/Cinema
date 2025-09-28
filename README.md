@@ -572,17 +572,17 @@ vampire hunter D: bloodlust ✅
 
 [Death Parade](Cinema/Death%20Parade%20799a9717faf44b5390dee7f24061e497.md)
 
-[Sword Art Online ✅](Cinema/Sword%20Art%20Online%20%E2%9C%85%2081c128355344488aa707687763b95cd5.md)
+[Sword Art Online ✅](./Sword_Art_Online.md)
 
 Darling in the Franxx ✅
 
-[Akira (1988) ✅](Cinema/Akira%20(1988)%20%E2%9C%85%209ed8083daec8444c902c258552cdcea5.md)
+[Akira (1988) ✅](./Akira_1988.md)
 
-[Hyouka ✅](Cinema/Hyouka%20%E2%9C%85%20129d37d16eca4f588776f8405a6f2ab8.md)
+[Hyouka ✅](./Hyouka.md)
 
 One-Punch Man ✅
 
-[Attack on Titan ✅](Cinema/Attack%20on%20Titan%20%E2%9C%85%20670067bc58b048549ef79b8058cca27a.md)
+[Attack on Titan ✅](./Attack_on_Titan.md)
 
 Tokyo Ghoul ✅
 
@@ -592,7 +592,7 @@ Jujustu Kaisen (SS1) ✅
 
 Tokyo Revenger (SS1) ✅
 
-[Paprika ✅](Cinema/Paprika%20%E2%9C%85%20144aca950c434dfab015420b4297b870.md)
+[Paprika ✅](./Paprika.md)
 
 [Trigun Stamdepe](Cinema/Trigun%20Stamdepe%207b318a9739374b4e9753dd5a5823e728.md)
 
