@@ -1,6 +1,6 @@
 # Cinema
 
-[John Wick 4 ✅](Cinema/John%20Wick%204%20%E2%9C%85%20a9e5f715885c4c9ab1413321060177da.md)
+[John Wick 4 ✅](./John_Wick_4.md)
 
 [Duneons & Dragons: Honor Among Thieves (2023) ✅](Cinema/Duneons%20&%20Dragons%20Honor%20Among%20Thieves%20(2023)%20%E2%9C%85%20bcef416215884bebafe9dc2c4116ed25.md)
 
