@@ -598,7 +598,7 @@ Tokyo Revenger (SS1) ✅
 
 [Suisei no Gargantia](Cinema/Suisei%20no%20Gargantia%20bbdcda859a8241e8bb46eed6700c2b12.md)
 
-[Cyberpunk 2077: Edge Runner](Cinema/Cyberpunk%202077%20Edge%20Runner%207f9388dcbf4e483e9a3a239a20b8a9a3.md)
+[Cyberpunk 2077: Edge Runner ✅](./Cyberpunk_2077_Edge_Runner.md)
 
 [D-1 Devastator!](Cinema/D-1%20Devastator!%20256514b354064dccb1c97b46f6036412.md)
 
@@ -617,8 +617,6 @@ Pluto
 [Blue eye samurai](Cinema/Blue%20eye%20samurai%2015415dc3a5a180dc87efd6f932496e3d.md)
 
 [Kite 1998](Cinema/Kite%201998%2016315dc3a5a180afb274ce731944d186.md)
-
-[Cyberpunk 2077: Edge Runner](Cinema/Cyberpunk%202077%20Edge%20Runner%20528c605f7dda40d2a9a8de2f3f6cf15e.md)
 
 [Studio Ghibli](Cinema/Studio%20Ghibli%207ff2e572b8ad4232ad223a5fa3d105b5.md)
 
