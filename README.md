@@ -625,3 +625,5 @@ Hell’s Paradise. Enemy’s name: Zhu Zun Amoghavajra.
 Once Upon a Time in Hollywood ✅
 
 [Evil Dead Series ✅](./Evil_Dead_Series.md)
+
+[FLOW (lạc trôi) - 2024 ✅](./Flow_2024.md)
