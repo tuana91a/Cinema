@@ -616,7 +616,7 @@ Pluto
 
 [Blue eye samurai](Cinema/Blue%20eye%20samurai%2015415dc3a5a180dc87efd6f932496e3d.md)
 
-[Kite 1998](Cinema/Kite%201998%2016315dc3a5a180afb274ce731944d186.md)
+[Kite 1998 ✅](./Kite_1998.md)
 
 [Studio Ghibli](Cinema/Studio%20Ghibli%207ff2e572b8ad4232ad223a5fa3d105b5.md)
 
