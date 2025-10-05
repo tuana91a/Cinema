@@ -470,7 +470,7 @@ Windfall of the Dead
 
 TENGOKU DAIMAKYOU
 
-[Cowboy Bebop ✅](Cinema/Cowboy%20Bebop%20%E2%9C%85%20de60012123334931902cb6f20e8fd225.md)
+[Cowboy Bebop ✅](./Cowboy_Bebop.md)
 
 Lupin
 
@@ -484,7 +484,7 @@ Drifter
 
 [Record of Ragnarok ✅](Cinema/Record%20of%20Ragnarok%20%E2%9C%85%20886fc3d37a1f406a80837c2f1b4f0142.md)
 
-[***JoJo's Bizarre Adventure*** ✅](Cinema/JoJo's%20Bizarre%20Adventure%20%E2%9C%85%2032be382970394b9d9dfd41b06fd24c6b.md)
+[**JoJo's Bizarre Adventure** ✅](./JoJo_Bizarre_Adventure.md)
 
 JIGOKURAKU - Địa ngục cực lạc (Anime)
 
@@ -520,7 +520,7 @@ eureka seven
 
 tengen toppa gurren lagann
 
-[Made in abyss ✅](Cinema/Made%20in%20abyss%20%E2%9C%85%20f9aa94c6c3ff49efadea1f18b3ef7711.md)
+[Made in Abyss ✅](./Made_in_Abyss.md)
 
 re: zero
 
@@ -552,7 +552,7 @@ Demon Slayer - Mugen Train
 
 Demon Slayer (SS2)
 
-[Parasite (Anime) ✅](Cinema/Parasite%20(Anime)%20%E2%9C%85%20f1fe0ac555a64de7bd1b6a11d2b199dc.md)
+[Parasite (Anime) ✅](./Parasite_Anime.md)
 
 Jin-Roh: The Wolf Brigade ✅
 
@@ -562,7 +562,7 @@ Red Line (2005) ✅
 
 Ninja Scroll (1993) ✅
 
-vampire hunter D: bloodlust ✅
+Vampire Hunter D: Bloodlust ✅
 
 [Vagabond](Cinema/Vagabond%20f59c41f25a8b40d9845ec34363a12cf9.md)
 
