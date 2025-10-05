@@ -570,7 +570,7 @@ vampire hunter D: bloodlust ✅
 
 [DORORO](Cinema/DORORO%207667304c0c0a489782c39bd7aced253f.md)
 
-[Death Parade](Cinema/Death%20Parade%20799a9717faf44b5390dee7f24061e497.md)
+[Death Parade ✅](./Death_Parade.md)
 
 [Sword Art Online ✅](./Sword_Art_Online.md)
 
