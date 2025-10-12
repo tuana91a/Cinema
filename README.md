@@ -1,5 +1,11 @@
 # Cinema
 
+# Studios
+
+[Studio Ghibli](./Studio_Ghibli.md)
+
+# Movies
+
 [John Wick 4 ✅](./John_Wick_4.md)
 
 [Duneons & Dragons: Honor Among Thieves (2023) ✅](Cinema/Duneons%20&%20Dragons%20Honor%20Among%20Thieves%20(2023)%20%E2%9C%85%20bcef416215884bebafe9dc2c4116ed25.md)
@@ -108,8 +114,6 @@ A Quiet Place: Day One (2024)
 
 [Biệt Đội Bất Hảo ✅](Cinema/Bi%E1%BB%87t%20%C4%90%E1%BB%99i%20B%E1%BA%A5t%20H%E1%BA%A3o%20%E2%9C%85%207ad47f2d6e0f4afd907675c365ec6ccf.md)
 
-[Charlie and The Chocolate Factory ✅](Cinema/Charlie%20and%20The%20Chocolate%20Factory%20%E2%9C%85%205d121d0acdb940e3a2d15938eb1bb948.md)
-
 [Chicken Run (2000) ✅](Cinema/Chicken%20Run%20(2000)%20%E2%9C%85%20211f67f33e5444ffb6e24eab65b98c96.md)
 
 [click (2006) ✅](Cinema/click%20(2006)%20%E2%9C%85%20b0cb288cfa994a8c8d129fbea0461c3c.md)
@@ -169,9 +173,9 @@ A Quiet Place: Day One (2024)
 
 [The Matrix](Cinema/The%20Matrix%20766e2017da6740c1b17982e328532ffc.md)
 
-- [x]  The Mist (2007)
+The Mist (2007) ✅
 
-[Charlie and the Chocolate Factory](Cinema/Charlie%20and%20the%20Chocolate%20Factory%20097a8df0ead846a18798d340489d3f91.md)
+[Charlie and the Chocolate Factory ✅](./Charlie_and_the_Chocolate_Factory.md)
 
 - [x]  The Suicide Squad (2021)
 - [x]  The Tomorrow War (2021)
@@ -357,8 +361,6 @@ KLAUS
 [Se7en (Seven)](Cinema/Se7en%20(Seven)%20d95ffbc7ab45475ebcf3ecdf02013041.md)
 
 American Psycho (2000)
-
-[The Wicker Man](Cinema/The%20Wicker%20Man%20f9f543c3b0014548b5b7374ac8e1f19d.md)
 
 [The Empty Man](Cinema/The%20Empty%20Man%20988d39936b1643718fb61a8d6bafa75e.md)
 
@@ -546,11 +548,11 @@ dance in vampire bund
 
 My Dress Up Darling
 
-Demon Slayer (SS1)
+Demon Slayer (SS1) ✅
 
-Demon Slayer - Mugen Train
+Demon Slayer - Mugen Train ✅
 
-Demon Slayer (SS2)
+Demon Slayer (SS2) ✅
 
 [Parasite (Anime) ✅](./Parasite_Anime.md)
 
@@ -617,8 +619,6 @@ Pluto
 [Blue eye samurai](Cinema/Blue%20eye%20samurai%2015415dc3a5a180dc87efd6f932496e3d.md)
 
 [Kite 1998 ✅](./Kite_1998.md)
-
-[Studio Ghibli](Cinema/Studio%20Ghibli%207ff2e572b8ad4232ad223a5fa3d105b5.md)
 
 Hell’s Paradise. Enemy’s name: Zhu Zun Amoghavajra.
 

@@ -1,6 +1,4 @@
-# Charlie and the Chocolate Factory
-
-# Charlie and the Chocolate Factory
+# Charlie and the Chocolate Factory ✅
 
 year: 2005
 
