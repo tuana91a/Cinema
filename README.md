@@ -629,3 +629,5 @@ Once Upon a Time in Hollywood ✅
 [FLOW (lạc trôi) - 2024 ✅](./Flow_2024.md)
 
 [Bram Stoker's Dracula ✅](./Bram_Stocker_Dracula_1992.md)
+
+[Water World 1995 ✅](./Water_World_1995.md)
