@@ -74,19 +74,19 @@
 
 [Bạch Xà 2 - Thanh Xà Kiếp Khởi ✅](Cinema/B%E1%BA%A1ch%20X%C3%A0%202%20-%20Thanh%20X%C3%A0%20Ki%E1%BA%BFp%20Kh%E1%BB%9Fi%20%E2%9C%85%205fd984bed1e84a31aff780d65a7c128f.md)
 
-[Free Guy ✅](Cinema/Free%20Guy%20%E2%9C%85%20e1172eba6a004aea96fc93bf1758cde7.md)
+Free Guy ✅
 
 [Back to Future ☑️](Cinema/Back%20to%20Future%20%E2%98%91%EF%B8%8F%20d7d3b0b7f5af4c2ab46c9c465c76b997.md)
 
-[Blaze Runner 2049 ✅](Cinema/Blaze%20Runner%202049%20%E2%9C%85%20565db5cb391c4e77ae0a0ae3aa4fb27b.md)
+Blaze Runner 2049 ✅
 
-[Sausage Party ✅](Cinema/Sausage%20Party%20%E2%9C%85%20940e0c145e5a4e84bb0be9de17c56386.md)
+[Sausage Party ✅](./Sausage_Party.md)
 
-[The Mummy (1999) ✅](Cinema/The%20Mummy%20(1999)%20%E2%9C%85%20dc7b0d415a2c45328ef48aae6d525193.md)
+The Mummy (1999) ✅
 
-[Treasure Planet ✅](Cinema/Treasure%20Planet%20%E2%9C%85%2036ed57f93a9d4f9786a262838e08a1b1.md)
+[Treasure Planet ✅](./Treasure_Planet.md)
 
-[Wall E ✅](Cinema/Wall%20E%20%E2%9C%85%203aa067035e34449b910b431787843f34.md)
+[Wall E ✅](./Wall_E.md)
 
 [Lucy ✅](Cinema/Lucy%20%E2%9C%85%20b568017773414c50824c34074ae55213.md)
 
@@ -94,7 +94,7 @@
 
 [Altered Carbon - Resleeved (2020)](Cinema/Altered%20Carbon%20-%20Resleeved%20(2020)%20cc31f32bb6a24638aaddc7890206f4e7.md)
 
-[9 (2009) ✅](Cinema/9%20(2009)%20%E2%9C%85%2046806c2c9d024806a745052548162bc6.md)
+[9 (2009) ✅](./9_2009.md)
 
 [A Quiet Place ✅](Cinema/A%20Quiet%20Place%20%E2%9C%85%2016415dc3a5a180d39422eecf55a5b670.md)
 
