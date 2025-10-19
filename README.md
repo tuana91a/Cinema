@@ -631,3 +631,5 @@ Once Upon a Time in Hollywood ✅
 [Bram Stoker's Dracula ✅](./Bram_Stocker_Dracula_1992.md)
 
 [Water World 1995 ✅](./Water_World_1995.md)
+
+[Midsomar 2019 ✅](./Midsomar_2019.md)
