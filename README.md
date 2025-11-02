@@ -633,3 +633,5 @@ Once Upon a Time in Hollywood ✅
 [Water World 1995 ✅](./Water_World_1995.md)
 
 [Midsomar 2019 ✅](./Midsomar_2019.md)
+
+[Parasite Dolls (2003) ✅](./Parasite_Dolls_2003.md)
