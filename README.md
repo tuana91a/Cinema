@@ -498,7 +498,7 @@ Drifters
 
 Ghost In The Shell: Innocence
 
-[Chainsaw Man ⚙️](Cinema/Chainsaw%20Man%20%E2%9A%99%EF%B8%8F%2012bf0eb0200648129995b91024d6102d.md)
+[Chainsaw Man](./Chainsaw_Man.md)
 
 highlander the search for vengeance (2007)
 
