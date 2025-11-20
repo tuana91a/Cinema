@@ -1,14 +1,11 @@
 # Cinema
 
-# Studios
+# [Studio Ghibli](./Studio_Ghibli.md)
 
-[Studio Ghibli](./Studio_Ghibli.md)
 
-# Movies
+# [John Wick 4 ✅](./John_Wick_4.md)
 
-[John Wick 4 ✅](./John_Wick_4.md)
-
-[Duneons & Dragons: Honor Among Thieves (2023) ✅](Cinema/Duneons%20&%20Dragons%20Honor%20Among%20Thieves%20(2023)%20%E2%9C%85%20bcef416215884bebafe9dc2c4116ed25.md)
+# [Duneons & Dragons: Honor Among Thieves (2023) ✅](./Duneons_n_Dragons_Honor_Among_Thieves_2023.md)
 
 [Guadian of the Galaxy Vol.3 ✅](Cinema/Guadian%20of%20the%20Galaxy%20Vol%203%20%E2%9C%85%20da42fefa5e3c49469529b3726ec96901.md)
 
@@ -199,43 +196,31 @@ The Mist (2007) ✅
 
 links: [https://www.youtube.com/watch?v=8bbG_Mxhoo8](https://www.youtube.com/watch?v=8bbG_Mxhoo8)
 
-[X trilogy](Cinema/X%20trilogy%20613fd1ed6a4c491091d98a17bf582784.md)
+# [X trilogy](Cinema/X%20trilogy%20613fd1ed6a4c491091d98a17bf582784.md)
 
-[The Creator (2023) ✅](Cinema/The%20Creator%20(2023)%20%E2%9C%85%204fecbb66215e4e23b2eca1ca9d1f9a76.md)
+# [The Creator (2023) ✅](Cinema/The%20Creator%20(2023)%20%E2%9C%85%204fecbb66215e4e23b2eca1ca9d1f9a76.md)
 
-[M3gan (2023) ✅](Cinema/M3gan%20(2023)%20%E2%9C%85%20e006d1e5a551499b83ab1063a555197c.md)
+# [M3gan (2023) ✅](Cinema/M3gan%20(2023)%20%E2%9C%85%20e006d1e5a551499b83ab1063a555197c.md)
 
-# 199
-
-- [ ]  Phong Than Tam Bo Khuc
+# Phong Than Tam Bo Khuc
 
 links: [https://www.youtube.com/watch?v=3WRM061SDgo](https://www.youtube.com/watch?v=3WRM061SDgo)
 
 description: Girl xinh
 
-# 201
-
-- [ ]  Noah (2014)
+# Noah (2014)
 
 description: Appocalypse
 
 year: 2014
 
-# 202
-
-- [ ]  Pulp Fiction (1994)
+# Pulp Fiction (1994)
 
 year: 1994
 
-204
+# external sunshine of the spotless mind (2004)
 
-- [ ]  external sunshine of the spotless mind (2004)
-
-year: 2004
-
-# 205
-
-- [ ]  The Great Gatsby
+# The Great Gatsby
 
 links: [https://youtu.be/82Ivwtv9RIU?si=Ls2c249dMYvjMqFH](https://youtu.be/82Ivwtv9RIU?si=Ls2c249dMYvjMqFH)
 
@@ -247,9 +232,7 @@ description: Nhà giàu, tình tan, đời tàn
 
 description: Stop motion
 
-# 207
-
-- [ ]  Raw
+# Raw
 
 year: 2016
 
@@ -257,15 +240,13 @@ description: Canibal
 
 [https://youtu.be/76ZnRzo5ruM?si=EbTUi3ioDCHd8WGx](https://youtu.be/76ZnRzo5ruM?si=EbTUi3ioDCHd8WGx)
 
-# 208
-
-- [ ]  Bone and all
+# Bone and all
 
 description: Canibal
 
 year: 2022
 
-[***Meet the Robinsons***](Cinema/Meet%20the%20Robinsons%2016415dc3a5a180fc9163ce3dfbd02303.md)
+# [***Meet the Robinsons***](Cinema/Meet%20the%20Robinsons%2016415dc3a5a180fc9163ce3dfbd02303.md)
 
 - [ ]  Terrifier 2 (2022)
 - [ ]  Terrifier 3 (2024)
@@ -472,11 +453,11 @@ Windfall of the Dead
 
 TENGOKU DAIMAKYOU
 
-[Cowboy Bebop ✅](./Cowboy_Bebop.md)
+# [Cowboy Bebop ✅](./Cowboy_Bebop.md)
 
 Lupin
 
-Perfect blue ✅
+# Perfect blue ✅
 
 [Roujin Z (1991) ✅](Cinema/Roujin%20Z%20(1991)%20%E2%9C%85%2017f15dc3a5a18054ab49d86d5758cd9a.md)
 
@@ -486,7 +467,7 @@ Drifter
 
 [Record of Ragnarok ✅](Cinema/Record%20of%20Ragnarok%20%E2%9C%85%20886fc3d37a1f406a80837c2f1b4f0142.md)
 
-[**JoJo's Bizarre Adventure** ✅](./JoJo_Bizarre_Adventure.md)
+# [**JoJo's Bizarre Adventure** ✅](./JoJo_Bizarre_Adventure.md)
 
 JIGOKURAKU - Địa ngục cực lạc (Anime)
 
