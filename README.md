@@ -635,3 +635,7 @@ Once Upon a Time in Hollywood ✅
 [Midsomar 2019 ✅](./Midsomar_2019.md)
 
 [Parasite Dolls (2003) ✅](./Parasite_Dolls_2003.md)
+
+# Frankenstein (2025) ✅
+
+Good to go, another approach, but still average.
