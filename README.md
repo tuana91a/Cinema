@@ -522,7 +522,7 @@ eureka seven
 
 tengen toppa gurren lagann
 
-[Made in Abyss ✅](./Made_in_Abyss.md)
+# [Made in Abyss ✅](./Made_in_Abyss.md)
 
 re: zero
 
@@ -548,23 +548,23 @@ dance in vampire bund
 
 My Dress Up Darling
 
-Demon Slayer (SS1) ✅
+# Demon Slayer (SS1) ✅
 
-Demon Slayer - Mugen Train ✅
+# Demon Slayer (SS2) ✅
 
-Demon Slayer (SS2) ✅
+# Demon Slayer - Mugen Train ✅
 
-[Parasite (Anime) ✅](./Parasite_Anime.md)
+# [Parasite (Anime) ✅](./Parasite_Anime.md)
 
-Jin-Roh: The Wolf Brigade ✅
+# Jin-Roh: The Wolf Brigade ✅
 
-Red Line (2005) ✅
+# Red Line (2005) ✅
 
 [Berserk ✅](Cinema/Berserk%20%E2%9C%85%202f6194fd49804738ac712b3d47635c44.md)
 
-Ninja Scroll (1993) ✅
+# Ninja Scroll (1993) ✅
 
-Vampire Hunter D: Bloodlust ✅
+# Vampire Hunter D: Bloodlust ✅
 
 [Vagabond](Cinema/Vagabond%20f59c41f25a8b40d9845ec34363a12cf9.md)
 
@@ -572,41 +572,41 @@ Vampire Hunter D: Bloodlust ✅
 
 [DORORO](Cinema/DORORO%207667304c0c0a489782c39bd7aced253f.md)
 
-[Death Parade ✅](./Death_Parade.md)
+# [Death Parade ✅](./Death_Parade.md)
 
-[Sword Art Online ✅](./Sword_Art_Online.md)
+# [Sword Art Online ✅](./Sword_Art_Online.md)
 
-Darling in the Franxx ✅
+# Darling in the Franxx ✅
 
-[Akira (1988) ✅](./Akira_1988.md)
+# [Akira (1988) ✅](./Akira_1988.md)
 
-[Hyouka ✅](./Hyouka.md)
+# [Hyouka ✅](./Hyouka.md)
 
-One-Punch Man ✅
+# One-Punch Man ✅
 
-[Attack on Titan ✅](./Attack_on_Titan.md)
+# [Attack on Titan ✅](./Attack_on_Titan.md)
 
-Tokyo Ghoul ✅
+# Tokyo Ghoul ✅
 
 [Grantz O](Cinema/Grantz%20O%20de1f567e370940b09a00ea610480f2ff.md)
 
-Jujustu Kaisen (SS1) ✅
+# Jujustu Kaisen (SS1) ✅
 
-Tokyo Revenger (SS1) ✅
+# Tokyo Revenger (SS1) ✅
 
-[Paprika ✅](./Paprika.md)
+# [Paprika ✅](./Paprika.md)
 
 [Trigun Stamdepe](Cinema/Trigun%20Stamdepe%207b318a9739374b4e9753dd5a5823e728.md)
 
 [Suisei no Gargantia](Cinema/Suisei%20no%20Gargantia%20bbdcda859a8241e8bb46eed6700c2b12.md)
 
-[Cyberpunk 2077: Edge Runner ✅](./Cyberpunk_2077_Edge_Runner.md)
+# [Cyberpunk 2077: Edge Runner ✅](./Cyberpunk_2077_Edge_Runner.md)
 
 [D-1 Devastator!](Cinema/D-1%20Devastator!%20256514b354064dccb1c97b46f6036412.md)
 
 Title: Metal Skin Panic MADOX-01
 
-Angel's Egg (1985) ✅
+# Angel's Egg (1985) ✅
 
 [The Memories (1995)](Cinema/The%20Memories%20(1995)%2011c15dc3a5a18019af53c6dd7aa5737f.md)
 
@@ -618,23 +618,23 @@ Pluto
 
 [Blue eye samurai](Cinema/Blue%20eye%20samurai%2015415dc3a5a180dc87efd6f932496e3d.md)
 
-[Kite 1998 ✅](./Kite_1998.md)
+# [Kite 1998 ✅](./Kite_1998.md)
 
 Hell’s Paradise. Enemy’s name: Zhu Zun Amoghavajra.
 
-Once Upon a Time in Hollywood ✅
+# Once Upon a Time in Hollywood ✅
 
-[Evil Dead Series ✅](./Evil_Dead_Series.md)
+# [Evil Dead Series ✅](./Evil_Dead_Series.md)
 
-[FLOW (lạc trôi) - 2024 ✅](./Flow_2024.md)
+# [FLOW (lạc trôi) - 2024 ✅](./Flow_2024.md)
 
-[Bram Stoker's Dracula ✅](./Bram_Stocker_Dracula_1992.md)
+# [Bram Stoker's Dracula ✅](./Bram_Stocker_Dracula_1992.md)
 
-[Water World 1995 ✅](./Water_World_1995.md)
+# [Water World 1995 ✅](./Water_World_1995.md)
 
-[Midsomar 2019 ✅](./Midsomar_2019.md)
+# [Midsomar 2019 ✅](./Midsomar_2019.md)
 
-[Parasite Dolls (2003) ✅](./Parasite_Dolls_2003.md)
+# [Parasite Dolls (2003) ✅](./Parasite_Dolls_2003.md)
 
 # Frankenstein (2025) ✅
 
