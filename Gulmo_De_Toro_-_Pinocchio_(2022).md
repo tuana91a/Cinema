@@ -1,0 +1,5 @@
+# Gulmo De Toro - Pinocchio (2022) ✅
+
+bất tử để làm gì
+
+xem hay, nhẹ nhàng, mà đúng chất gulmo de toro
