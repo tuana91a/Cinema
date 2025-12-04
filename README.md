@@ -120,332 +120,154 @@
 - [ ] [X trilogy](Cinema/X%20trilogy%20613fd1ed6a4c491091d98a17bf582784.md)
 - [x] [The Creator (2023)](Cinema/The%20Creator%20(2023)%20%E2%9C%85%204fecbb66215e4e23b2eca1ca9d1f9a76.md)
 - [x] [M3gan (2023)](Cinema/M3gan%20(2023)%20%E2%9C%85%20e006d1e5a551499b83ab1063a555197c.md)
-
-# Phong Than Tam Bo Khuc
-
-links: [https://www.youtube.com/watch?v=3WRM061SDgo](https://www.youtube.com/watch?v=3WRM061SDgo)
-
-description: Girl xinh
-
-# Noah (2014)
-
-description: Appocalypse
-
-year: 2014
-
-# Pulp Fiction (1994)
-
-year: 1994
-
-# external sunshine of the spotless mind (2004)
-
-# The Great Gatsby
-
-links: [https://youtu.be/82Ivwtv9RIU?si=Ls2c249dMYvjMqFH](https://youtu.be/82Ivwtv9RIU?si=Ls2c249dMYvjMqFH)
-
-description: Nhà giàu, tình tan, đời tàn
-
-# 206
-
+- [ ] [Phong Than Tam Bo Khuc](./Phong_Than_Tam_Bo_Khuc.md)
+- [ ] [Noah (2014)](./Noah_(2014).md)
+- [ ] [Pulp Fiction (1994)](./Pulp_Fiction_(1994).md)
+- [ ] external sunshine of the spotless mind (2004)
+- [ ] [The Great Gatsby](./The_Great_Gatsby.md)
 - [ ]  Paranoidman
-
-description: Stop motion
-
-# Raw
-
-year: 2016
-
-description: Canibal
-
-[https://youtu.be/76ZnRzo5ruM?si=EbTUi3ioDCHd8WGx](https://youtu.be/76ZnRzo5ruM?si=EbTUi3ioDCHd8WGx)
-
-# Bone and all
-
-description: Canibal
-
-year: 2022
-
-# [***Meet the Robinsons***](Cinema/Meet%20the%20Robinsons%2016415dc3a5a180fc9163ce3dfbd02303.md)
-
-- [ ]  Terrifier 2 (2022)
-- [ ]  Terrifier 3 (2024)
-
-- [ ]  Oz the great and powerfull
-
-It follow
-
-[Taxi Driver](Cinema/Taxi%20Driver%203ce50a6cdf154611ac8f6b505b95a2c1.md)
-
-[Memories of Geisha](Cinema/Memories%20of%20Geisha%20db3283ff52d54d85a49c8ecf32e7a5fe.md)
-
-[Godzilla Minus One ✅](Cinema/Godzilla%20Minus%20One%20%E2%9C%85%20ccb7ef15e85141c3909dd82a3b4719c6.md)
-
-Silo (2023)
-
-Trick or Treat (2009)
-
-[Total Recall (sci fi)](Cinema/Total%20Recall%20(sci%20fi)%2041e6e3510cec434c866059e33324ea81.md)
-
-West World (sci fi)
-
-Foundation 2023
-
-Red Sparrow (3x)
-
-See (2021)
-
-[Guillermo del Toro's Cabinet of Curiosities](Cinema/Guillermo%20del%20Toro's%20Cabinet%20of%20Curiosities%20560a4fa5747e487c9fa994b88f5bd4b1.md)
-
-[Hardcore Henry (2015)](Cinema/Hardcore%20Henry%20(2015)%2016c2a2affada4c7da920743458a13232.md)
-
-[MALÈNA: Con dao HAI LƯỠI mang tên SẮC ĐẸP](Cinema/MAL%C3%88NA%20Con%20dao%20HAI%20L%C6%AF%E1%BB%A0I%20mang%20t%C3%AAn%20S%E1%BA%AEC%20%C4%90%E1%BA%B8P%206b92bbf3214a42f5bc47dd7a8c617dc1.md)
-
-[1899](Cinema/1899%207fc9b94244874955afbd9300aa219bfe.md)
-
-[Dogtooth](Cinema/Dogtooth%201582339d2fc0438491d23c4f8502014a.md)
-
-[WHERE THE CRAWDADS SING](Cinema/WHERE%20THE%20CRAWDADS%20SING%20a24c696330914bdb95f3beb4e6875a0f.md)
-
-[Upgrade](Cinema/Upgrade%20c5dba5f0e7af410eae99e391b5e0f9d6.md)
-
-[Igra na vyzhivanie (TV Series) (2020)](Cinema/Igra%20na%20vyzhivanie%20(TV%20Series)%20(2020)%20bdaa3b64a8e64aada252f72d17d2794e.md)
-
-[Mira (2023)](Cinema/Mira%20(2023)%209b6ad3585b634daca15bee781e08b8e2.md)
-
-[The Mandalorian (STAR WAR)](Cinema/The%20Mandalorian%20(STAR%20WAR)%20508b757628a44d85a544dd8ee4ed4c9e.md)
-
-[A real young girl ✅](Cinema/A%20real%20young%20girl%20%E2%9C%85%20a070cac58ae0453299e95700b1ac1ba4.md)
-
-[Crime of The Furture (2022) ✅](Cinema/Crime%20of%20The%20Furture%20(2022)%20%E2%9C%85%20702570dad5f84b94840c1d9ebbf008fc.md)
-
-[Three thoundsand years of longing (2022)](Cinema/Three%20thoundsand%20years%20of%20longing%20(2022)%20b5e0479509534479a7d71b13b49b6949.md)
-
-[Existenz 90s](Cinema/Existenz%2090s%205f836cf8d51e401bbbf22d199864a163.md)
-
-[Smile 2022](Cinema/Smile%202022%203ec39ac82d6d4118b0c811b04cbf0757.md)
-
-Thập diện mai phục
-
-[The House: Netflix](Cinema/The%20House%20Netflix%2008897e025a6c44f2b4c3ab1b8251a946.md)
-
-[Air plane 1980](Cinema/Air%20plane%201980%209c975e0c444744c592ffe62990cd9d31.md)
-
-[The interview (2014)](Cinema/The%20interview%20(2014)%20a7e001d6719d488794ed7dcf5071defe.md)
-
-[Tuker and dale vs devil](Cinema/Tuker%20and%20dale%20vs%20devil%20f9a34c2dafb24d20b51f43f6195575d2.md)
-
-[Nobody](Cinema/Nobody%20838c70f9052e41248b3d98e99dc504e8.md)
-
-[The Queen's Classroom (2005-2006)](Cinema/The%20Queen's%20Classroom%20(2005-2006)%20185c34c6fd38475898232211fb798355.md)
-
-[Hannibal](Cinema/Hannibal%207bc91c2ba8034787a8788dcf1de2e9f6.md)
-
-Ghostbusters: After Life
-
-Ghostbusters: Frozen Empire (2024)
-
-Saw
-
-Smile
-
-Smile 2
-
-Smile 3
-
-Dredd
-
-KLAUS
-
-[CON NHÀ GIÀU “VƯỢT SƯỚNG” như thế nào? - GIẢI THÍCH KLAUS](https://www.youtube.com/watch?v=LCab1ueAsU4)
-
-[Se7en (Seven)](Cinema/Se7en%20(Seven)%20d95ffbc7ab45475ebcf3ecdf02013041.md)
-
-American Psycho (2000)
-
-[The Empty Man](Cinema/The%20Empty%20Man%20988d39936b1643718fb61a8d6bafa75e.md)
-
-[The Magligent (2021)](Cinema/The%20Magligent%20(2021)%209137cb8f927f4e38a5f7554b60e0aba3.md)
-
-[I saw the devil (2010)](Cinema/I%20saw%20the%20devil%20(2010)%2065b49cf0d5a94c95a72365844446c89a.md)
-
-[The silent of the lambs](Cinema/The%20silent%20of%20the%20lambs%20ac8ec5e81e994336af5b6a0beef31cac.md)
-
-[Suicide Club](Cinema/Suicide%20Club%20b99e5ff60e5641258685a5e317b0d934.md)
-
-[Fight Club - Stephen King](Cinema/Fight%20Club%20-%20Stephen%20King%20a69709051d4345dca686e8b6a3e402e5.md)
-
-Drive (2011)
-
-men (2022)
-
-Sói già phố wall
-
-Stand by me - Stephen King
-
-2001 a space odessy
-
-Top Gun Maverick
-
-Light Year
-
-The Tag-Along (2015) kinh vãi đái
-
-Starship Trooper
-
-Người phán xử
-
-Perfume: The story of a murder
-
-The shinning + Doctor Sleep
-
-Thiên linh cái
-
-[Fear and Hunger](Cinema/Fear%20and%20Hunger%20c8335ecda63c44329d98b08f01485a5e.md)
-
-[**Shawshank Redemption**](Cinema/Shawshank%20Redemption%20f350621fd5a54e6dbfc308fcba551a0c.md)
-
-[Tokyo Vice](Cinema/Tokyo%20Vice%20cabe6731b7534f658f1db2e868b965f6.md)
-
-[The Prestige (2006)](Cinema/The%20Prestige%20(2006)%2010d429ed35c949a09d1a62cd31e0fcbc.md)
-
-[ODDITY](Cinema/ODDITY%200ff15dc3a5a180d5b09acca83376c32b.md)
-
-[LATE NIGHT WITH THE DEVIL](Cinema/LATE%20NIGHT%20WITH%20THE%20DEVIL%200ff15dc3a5a180248b1af24d34348ab6.md)
-
-[**Corpes Bride**](Cinema/Corpes%20Bride%2010115dc3a5a180f8b8badd9d97d759ce.md)
-
-[Cukoo](Cinema/Cukoo%2011015dc3a5a180a38607e12e798da63d.md)
-
-[UP (Vút bay) ✅](Cinema/UP%20(V%C3%BAt%20bay)%20%E2%9C%85%2011515dc3a5a1808598aefefc9dbc5887.md)
-
-[**The Substance (2024)**](https://www.imdb.com/title/tt17526714/)
-
-[Quật mộ trùng ma ✅](Cinema/Qu%E1%BA%ADt%20m%E1%BB%99%20tr%C3%B9ng%20ma%20%E2%9C%85%2013b15dc3a5a180c8bd30e8c6a0447116.md)
-
-[Infinity Pool (2023)](Cinema/Infinity%20Pool%20(2023)%2013c15dc3a5a180888c98cec575bc2901.md)
-
-[The breakfast club (1985)](Cinema/The%20breakfast%20club%20(1985)%2015d15dc3a5a180b2b89def06cb8cdbba.md)
-
-[Quốc sản 007 ✅](Cinema/Qu%E1%BB%91c%20s%E1%BA%A3n%20007%20%E2%9C%85%2073a218fd9a0d4fa98b8eb008f9d3ef31.md)
-
-[A.I. Artificial Intelligence ✅](Cinema/A%20I%20Artificial%20Intelligence%20%E2%9C%85%2017f15dc3a5a180b38e2eea4cbfc7500e.md)
-
-[**Small Soldiers (1998)**](Cinema/Small%20Soldiers%20(1998)%2021315dc3a5a1804b828ee605a0727cbf.md)
-
-[Sicario 1+2 (Tội phạm mexico)](Cinema/Sicario%201+2%20(T%E1%BB%99i%20ph%E1%BA%A1m%20mexico)%2021a15dc3a5a18029a52bf9d941a0b301.md)
-
-[**TIME STILL TURNS THE PAGES (áp lực học đường)**](Cinema/TIME%20STILL%20TURNS%20THE%20PAGES%20(%C3%A1p%20l%E1%BB%B1c%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%9Dng)%2021a15dc3a5a1809fbdfac21b3ab439cc.md)
-
-[Secret Level 2024 ✅](Cinema/Secret%20Level%202024%20%E2%9C%85%2016315dc3a5a1808bacabdbb3a35ddb05.md)
-
-[Game of Thrones (A song of ice and fire) ✅](Cinema/Game%20of%20Thrones%20(A%20song%20of%20ice%20and%20fire)%20%E2%9C%85%2088e6cd8d5acb4112ab2358db80d79406.md)
-
-[LEGO NINJAGO](Cinema/LEGO%20NINJAGO%201ad52fdbb3634de4abf98fca98980b21.md)
-
-[The walking dead](Cinema/The%20walking%20dead%20cfde0ec5904049a8a6daec2ee38c9b8e.md)
-
-[Love, Death + Robots](Cinema/Love,%20Death%20+%20Robots%20355f8aa6930a4a7ea36a0aedf1187add.md)
-
-[Monarch: Legacy of Monsters (2023) ✅](Cinema/Monarch%20Legacy%20of%20Monsters%20(2023)%20%E2%9C%85%20ac19ca1e02f843b6812b77064470ea18.md)
-
-[***The Lord of the Rings: The Rings of Power***](Cinema/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%2016315dc3a5a180da941ceb97897996b2.md)
-
-[Chenobyl (2019)](Cinema/Chenobyl%20(2019)%20f85301944bf94a3598ed3126445378c8.md)
-
-[Twisted Metal TV Series 2023](Cinema/Twisted%20Metal%20TV%20Series%202023%20872dbffd4cf74011ab92c5564b7b10c6.md)
-
-[Arcane - RiotGames ✅](Cinema/Arcane%20-%20RiotGames%20%E2%9C%85%20d2fa6e7d533c41d68e62202f08fbf8c9.md)
-
-Record of Lodoss War
-
-Blade the Vampire Hunter (1981)
-
-[Gintama](Cinema/Gintama%20e711645dc44244ca8f2fa3f216f7781f.md)
-
-Akame Ga Kill
-
-Zom 100: Bucket List of the Dead
-
-Prison School
-
-Windfall of the Dead
-
-TENGOKU DAIMAKYOU
-
-# [Cowboy Bebop ✅](./Cowboy_Bebop.md)
-
-# Lupin
-
-# Perfect blue ✅
-
-# [Roujin Z (1991) ✅](./Roujin_Z_1991.md)
-
-Gyo Junji Ito
-
-Drifter
-
-# [Record of Ragnarok ☑️](./Record_of_Ragnarok.md)
-
-# [**JoJo's Bizarre Adventure** ✅](./JoJo_Bizarre_Adventure.md)
-
-JIGOKURAKU - Địa ngục cực lạc (Anime)
-
-No Game, No Life
-
-[Vinland Saga](Cinema/Vinland%20Saga%20b896336b1edf424c9aba04fac3d9eac9.md)
-
-Drifters
-
-Ghost In The Shell: Innocence
-
-# [Chainsaw Man ☑️](./Chainsaw_Man.md)
-
-highlander the search for vengeance (2007)
-
-hunter x hunter
-
-Evangelion
-
-Rebuild Evangelion
-
-charlotte
-
-86 series
-
-code gears
-
-full metal panic
-
-eureka seven
-
-[Gundam Universe](Cinema/Gundam%20Universe%2022715dc3a5a180fbb336c0180dd46f91.md)
-
-tengen toppa gurren lagann
-
-# [Made in Abyss ✅](./Made_in_Abyss.md)
-
-re: zero
-
-blood c (2011)
-
-Hellsing (anime)
-
-Corpse Party
-
-Assassination Classroom (2015)
-
-Elfen lied (2004)
-
-Ajin (2016)
-
-Noblesse: 2 OVA
-
-zet man
-
-kabaneri of the iron fortress
-
-dance in vampire bund
-
+- [ ] [Raw](./Raw.md)
+- [ ] [Bone and all](./Bone_and_all.md)
+- [x] [***Meet the Robinsons***](Cinema/Meet%20the%20Robinsons%2016415dc3a5a180fc9163ce3dfbd02303.md)
+- [ ] Terrifier 2 (2022)
+- [ ] Terrifier 3 (2024)
+- [ ] Oz the great and powerfull
+- [ ] It follow
+- [ ] [Taxi Driver](Cinema/Taxi%20Driver%203ce50a6cdf154611ac8f6b505b95a2c1.md)
+- [ ] [Memories of Geisha](Cinema/Memories%20of%20Geisha%20db3283ff52d54d85a49c8ecf32e7a5fe.md)
+- [x] [Godzilla Minus One](Cinema/Godzilla%20Minus%20One%20%E2%9C%85%20ccb7ef15e85141c3909dd82a3b4719c6.md)
+- [ ] Silo (2023)
+- [ ] Trick or Treat (2009)
+- [ ] [Total Recall (sci fi)](Cinema/Total%20Recall%20(sci%20fi)%2041e6e3510cec434c866059e33324ea81.md)
+- [ ] West World (sci fi)
+- [ ] Foundation 2023
+- [ ] Red Sparrow (3x)
+- [ ] See (2021)
+- [ ] [Guillermo del Toro's Cabinet of Curiosities](Cinema/Guillermo%20del%20Toro's%20Cabinet%20of%20Curiosities%20560a4fa5747e487c9fa994b88f5bd4b1.md)
+- [ ] [Hardcore Henry (2015)](Cinema/Hardcore%20Henry%20(2015)%2016c2a2affada4c7da920743458a13232.md)
+- [ ] [MALÈNA: Con dao HAI LƯỠI mang tên SẮC ĐẸP](Cinema/MAL%C3%88NA%20Con%20dao%20HAI%20L%C6%AF%E1%BB%A0I%20mang%20t%C3%AAn%20S%E1%BA%AEC%20%C4%90%E1%BA%B8P%206b92bbf3214a42f5bc47dd7a8c617dc1.md)
+- [ ] [1899](Cinema/1899%207fc9b94244874955afbd9300aa219bfe.md)
+- [ ] [Dogtooth](Cinema/Dogtooth%201582339d2fc0438491d23c4f8502014a.md)
+- [ ] [WHERE THE CRAWDADS SING](Cinema/WHERE%20THE%20CRAWDADS%20SING%20a24c696330914bdb95f3beb4e6875a0f.md)
+- [ ] [Upgrade](Cinema/Upgrade%20c5dba5f0e7af410eae99e391b5e0f9d6.md)
+- [ ] [Igra na vyzhivanie (TV Series) (2020)](Cinema/Igra%20na%20vyzhivanie%20(TV%20Series)%20(2020)%20bdaa3b64a8e64aada252f72d17d2794e.md)
+- [ ] [Mira (2023)](Cinema/Mira%20(2023)%209b6ad3585b634daca15bee781e08b8e2.md)
+- [ ] [The Mandalorian (STAR WAR)](Cinema/The%20Mandalorian%20(STAR%20WAR)%20508b757628a44d85a544dd8ee4ed4c9e.md)
+- [x] [A real young girl](Cinema/A%20real%20young%20girl%20%E2%9C%85%20a070cac58ae0453299e95700b1ac1ba4.md)
+- [x] [Crime of The Furture (2022)](Cinema/Crime%20of%20The%20Furture%20(2022)%20%E2%9C%85%20702570dad5f84b94840c1d9ebbf008fc.md)
+- [ ] [Three thoundsand years of longing (2022)](Cinema/Three%20thoundsand%20years%20of%20longing%20(2022)%20b5e0479509534479a7d71b13b49b6949.md)
+- [ ] [Existenz 90s](Cinema/Existenz%2090s%205f836cf8d51e401bbbf22d199864a163.md)
+- [ ] [Smile 2022](Cinema/Smile%202022%203ec39ac82d6d4118b0c811b04cbf0757.md)
+- [ ] Thập diện mai phục
+- [ ] [The House: Netflix](Cinema/The%20House%20Netflix%2008897e025a6c44f2b4c3ab1b8251a946.md)
+- [ ] [Air plane 1980](Cinema/Air%20plane%201980%209c975e0c444744c592ffe62990cd9d31.md)
+- [ ] [The interview (2014)](Cinema/The%20interview%20(2014)%20a7e001d6719d488794ed7dcf5071defe.md)
+- [ ] [Tuker and dale vs devil](Cinema/Tuker%20and%20dale%20vs%20devil%20f9a34c2dafb24d20b51f43f6195575d2.md)
+- [ ] [Nobody](Cinema/Nobody%20838c70f9052e41248b3d98e99dc504e8.md)
+- [ ] [The Queen's Classroom (2005-2006)](Cinema/The%20Queen's%20Classroom%20(2005-2006)%20185c34c6fd38475898232211fb798355.md)
+- [ ] [Hannibal](Cinema/Hannibal%207bc91c2ba8034787a8788dcf1de2e9f6.md)
+- [ ] Ghostbusters: After Life
+- [ ] Ghostbusters: Frozen Empire (2024)
+- [ ] Saw
+- [ ] Smile
+- [ ] Smile 2
+- [ ] Smile 3
+- [ ] Dredd
+- [ ] KLAUS
+- [ ] [CON NHÀ GIÀU "VƯỢT SƯỚNG" như thế nào? - GIẢI THÍCH KLAUS](https://www.youtube.com/watch?v=LCab1ueAsU4)
+- [ ] [Se7en (Seven)](Cinema/Se7en%20(Seven)%20d95ffbc7ab45475ebcf3ecdf02013041.md)
+- [ ] American Psycho (2000)
+- [ ] [The Empty Man](Cinema/The%20Empty%20Man%20988d39936b1643718fb61a8d6bafa75e.md)
+- [ ] [The Magligent (2021)](Cinema/The%20Magligent%20(2021)%209137cb8f927f4e38a5f7554b60e0aba3.md)
+- [ ] [I saw the devil (2010)](Cinema/I%20saw%20the%20devil%20(2010)%2065b49cf0d5a94c95a72365844446c89a.md)
+- [ ] [The silent of the lambs](Cinema/The%20silent%20of%20the%20lambs%20ac8ec5e81e994336af5b6a0beef31cac.md)
+- [ ] [Suicide Club](Cinema/Suicide%20Club%20b99e5ff60e5641258685a5e317b0d934.md)
+- [ ] [Fight Club - Stephen King](Cinema/Fight%20Club%20-%20Stephen%20King%20a69709051d4345dca686e8b6a3e402e5.md)
+- [ ] Drive (2011)
+- [ ] Men (2022)
+- [ ] Sói già phố wall
+- [ ] Stand by me - Stephen King
+- [ ] 2001 a space odessy
+- [ ] Top Gun Maverick
+- [ ] Light Year
+- [ ] The Tag-Along (2015) kinh vãi đái
+- [ ] Starship Trooper
+- [ ] Người phán xử
+- [ ] Perfume: The story of a murder
+- [ ] The shinning + Doctor Sleep
+- [ ] Thiên linh cái
+- [ ] [Fear and Hunger](Cinema/Fear%20and%20Hunger%20c8335ecda63c44329d98b08f01485a5e.md)
+- [ ] [**Shawshank Redemption**](Cinema/Shawshank%20Redemption%20f350621fd5a54e6dbfc308fcba551a0c.md)
+- [ ] [Tokyo Vice](Cinema/Tokyo%20Vice%20cabe6731b7534f658f1db2e868b965f6.md)
+- [ ] [The Prestige (2006)](Cinema/The%20Prestige%20(2006)%2010d429ed35c949a09d1a62cd31e0fcbc.md)
+- [ ] [ODDITY](Cinema/ODDITY%200ff15dc3a5a180d5b09acca83376c32b.md)
+- [ ] [LATE NIGHT WITH THE DEVIL](Cinema/LATE%20NIGHT%20WITH%20THE%20DEVIL%200ff15dc3a5a180248b1af24d34348ab6.md)
+- [ ] [**Corpes Bride**](Cinema/Corpes%20Bride%2010115dc3a5a180f8b8badd9d97d759ce.md)
+- [ ] [Cukoo](Cinema/Cukoo%2011015dc3a5a180a38607e12e798da63d.md)
+- [x] [UP (Vút bay)](Cinema/UP%20(V%C3%BAt%20bay)%20%E2%9C%85%2011515dc3a5a1808598aefefc9dbc5887.md)
+- [ ] [**The Substance (2024)**](https://www.imdb.com/title/tt17526714/)
+- [x] [Quật mộ trùng ma](Cinema/Qu%E1%BA%ADt%20m%E1%BB%99%20tr%C3%B9ng%20ma%20%E2%9C%85%2013b15dc3a5a180c8bd30e8c6a0447116.md)
+- [ ] [Infinity Pool (2023)](Cinema/Infinity%20Pool%20(2023)%2013c15dc3a5a180888c98cec575bc2901.md)
+- [ ] [The breakfast club (1985)](Cinema/The%20breakfast%20club%20(1985)%2015d15dc3a5a180b2b89def06cb8cdbba.md)
+- [x] [Quốc sản 007](Cinema/Qu%E1%BB%91c%20s%E1%BA%A3n%20007%20%E2%9C%85%2073a218fd9a0d4fa98b8eb008f9d3ef31.md)
+- [x] [A.I. Artificial Intelligence](Cinema/A%20I%20Artificial%20Intelligence%20%E2%9C%85%2017f15dc3a5a180b38e2eea4cbfc7500e.md)
+- [ ] [**Small Soldiers (1998)**](Cinema/Small%20Soldiers%20(1998)%2021315dc3a5a1804b828ee605a0727cbf.md)
+- [ ] [Sicario 1+2 (Tội phạm mexico)](Cinema/Sicario%201+2%20(T%E1%BB%99i%20ph%E1%BA%A1m%20mexico)%2021a15dc3a5a18029a52bf9d941a0b301.md)
+- [ ] [**TIME STILL TURNS THE PAGES (áp lực học đường)**](Cinema/TIME%20STILL%20TURNS%20THE%20PAGES%20(%C3%A1p%20l%E1%BB%B1c%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%9Dng)%2021a15dc3a5a1809fbdfac21b3ab439cc.md)
+- [x] [Secret Level 2024](Cinema/Secret%20Level%202024%20%E2%9C%85%2016315dc3a5a1808bacabdbb3a35ddb05.md)
+- [x] [Game of Thrones (A song of ice and fire)](Cinema/Game%20of%20Thrones%20(A%20song%20of%20ice%20and%20fire)%20%E2%9C%85%2088e6cd8d5acb4112ab2358db80d79406.md)
+- [ ] [LEGO NINJAGO](Cinema/LEGO%20NINJAGO%201ad52fdbb3634de4abf98fca98980b21.md)
+- [ ] [The walking dead](Cinema/The%20walking%20dead%20cfde0ec5904049a8a6daec2ee38c9b8e.md)
+- [ ] [Love, Death + Robots](Cinema/Love,%20Death%20+%20Robots%20355f8aa6930a4a7ea36a0aedf1187add.md)
+- [x] [Monarch: Legacy of Monsters (2023)](Cinema/Monarch%20Legacy%20of%20Monsters%20(2023)%20%E2%9C%85%20ac19ca1e02f843b6812b77064470ea18.md)
+- [ ] [***The Lord of the Rings: The Rings of Power***](Cinema/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%2016315dc3a5a180da941ceb97897996b2.md)
+- [ ] [Chenobyl (2019)](Cinema/Chenobyl%20(2019)%20f85301944bf94a3598ed3126445378c8.md)
+- [ ] [Twisted Metal TV Series 2023](Cinema/Twisted%20Metal%20TV%20Series%202023%20872dbffd4cf74011ab92c5564b7b10c6.md)
+- [x] [Arcane - RiotGames](Cinema/Arcane%20-%20RiotGames%20%E2%9C%85%20d2fa6e7d533c41d68e62202f08fbf8c9.md)
+- [ ] Record of Lodoss War
+- [ ] Blade the Vampire Hunter (1981)
+- [ ] [Gintama](Cinema/Gintama%20e711645dc44244ca8f2fa3f216f7781f.md)
+- [ ] Akame Ga Kill
+- [ ] Zom 100: Bucket List of the Dead
+- [ ] Prison School
+- [ ] Windfall of the Dead
+- [ ] TENGOKU DAIMAKYOU
+- [x] [Cowboy Bebop](./Cowboy_Bebop.md)
+- [ ] Lupin
+- [x] Perfect blue
+- [x] [Roujin Z (1991)](./Roujin_Z_1991.md)
+- [ ] Gyo Junji Ito
+- [ ] Drifter
+- [x] [Record of Ragnarok](./Record_of_Ragnarok.md)
+- [x] [**JoJo's Bizarre Adventure**](./JoJo_Bizarre_Adventure.md)
+- [ ] JIGOKURAKU - Địa ngục cực lạc (Anime)
+- [ ] No Game, No Life
+- [ ] [Vinland Saga](Cinema/Vinland%20Saga%20b896336b1edf424c9aba04fac3d9eac9.md)
+- [ ] Drifters
+- [ ] Ghost In The Shell: Innocence
+- [x] [Chainsaw Man](./Chainsaw_Man.md)
+- [ ] highlander the search for vengeance (2007)
+- [ ] hunter x hunter
+- [ ] Evangelion
+- [ ] Rebuild Evangelion
+- [ ] charlotte
+- [ ] 86 series
+- [ ] code gears
+- [ ] full metal panic
+- [ ] eureka seven
+- [ ] tengen toppa gurren lagann
+- [x] [Made in Abyss](./Made_in_Abyss.md)
+- [ ] re: zero
+- [ ] blood c (2011)
+- [ ] Hellsing (anime)
+- [ ] Corpse Party
+- [ ] Assassination Classroom (2015)
+- [ ] Elfen lied (2004)
+- [ ] Ajin (2016)
+- [ ] Noblesse: 2 OVA
+- [ ] zet man
+- [ ] kabaneri of the iron fortress
+- [ ] dance in vampire bund
 - [ ] My Dress Up Darling
 - [x] Demon Slayer (SS1)
 - [x] Demon Slayer (SS2)
@@ -505,3 +327,9 @@ dance in vampire bund
 - [x] Nausicaa - Princess of the Valley
 - [x] Laputa Flying Castle
 - [x] [The Boy and the Heron](./The_Boy_and_the_Heron.md)
+
+# [Gundam Universe](./Gundam_Universe.md)
+
+- [ ] Gundam Seed
+- [x] [MS GUNDAM: IRON-BLOODED ORPHANS](./MS_GUNDAM_IRON-BLOODED_ORPHANS.md)
+- [ ] [**Gundam: Requiem for Vengeance (2024)**](./Gundam_Requiem_for_Vengeance_2024.md)
