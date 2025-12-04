@@ -1,206 +1,125 @@
 # Cinema
 
-# [Studio Ghibli](./Studio_Ghibli.md)
-
-
-# [John Wick 4 ✅](./John_Wick_4.md)
-
-# [Duneons & Dragons: Honor Among Thieves (2023) ✅](./Duneons_n_Dragons_Honor_Among_Thieves_2023.md)
-
-[Guadian of the Galaxy Vol.3 ✅](Cinema/Guadian%20of%20the%20Galaxy%20Vol%203%20%E2%9C%85%20da42fefa5e3c49469529b3726ec96901.md)
-
-[City of Ember ✅](Cinema/City%20of%20Ember%20%E2%9C%85%2046eb7ef0262f47c080a2a9965c36e1e8.md)
-
-[Enigma (2023) ✅](Cinema/Enigma%20(2023)%20%E2%9C%85%20a0df79b1005b4762956ec05c4f718253.md)
-
-[Moon Fall (2023) ✅](Cinema/Moon%20Fall%20(2023)%20%E2%9C%85%20cea3573d141f495db7c90bb887b06a4d.md)
-
-[Reminiscence ✅](Cinema/Reminiscence%20%E2%9C%85%20a9be83fee46148dda33807d59a8a647b.md)
-
-[Gulmo De Toro - Pinocchio (2022) ✅](Cinema/Gulmo%20De%20Toro%20-%20Pinocchio%20(2022)%20%E2%9C%85%207155125d649146349441f225bf8f9de2.md)
-
-[Nope (2022) ✅](Cinema/Nope%20(2022)%20%E2%9C%85%20d5f44121947b4fa1ac040e2382d50cea.md)
-
-[SUPER MARIO BROS - The Movie ✅](Cinema/SUPER%20MARIO%20BROS%20-%20The%20Movie%20%E2%9C%85%204dd46d1b9c604c3b87742bd6e22e7eb3.md)
-
-[Avatar (2008) ✅](Cinema/Avatar%20(2008)%20%E2%9C%85%2054eb927f8f564213bfd60f11fb7084fb.md)
-
-[Avatar: The Way of Water (2022) ✅](Cinema/Avatar%20The%20Way%20of%20Water%20(2022)%20%E2%9C%85%20fe96346e1469435781f5a5f9e402c1ff.md)
-
-[Sonic the Hedgehog’s series](Cinema/Sonic%20the%20Hedgehog%E2%80%99s%20series%20c34e6c9d952f4f8897af4736dce0b99e.md)
-
-[ROBOTS (2005) ✅](Cinema/ROBOTS%20(2005)%20%E2%9C%85%206ab852b777c74b9eab6d15f5ec65762c.md)
-
-[The Northman (2022) ✅](Cinema/The%20Northman%20(2022)%20%E2%9C%85%2069431a4ca1f247d6a6ed0e52bd2fbd8f.md)
-
-[Dune: Trilogy ✅](Cinema/Dune%20Trilogy%20%E2%9C%85%20a3ee3a733ec4405cae2b6954267cd171.md)
-
-[Bullet Train ✅](Cinema/Bullet%20Train%20%E2%9C%85%20600a415e642d4c2f9fb9214c51a39414.md)
-
-[Constantine ✅](Cinema/Constantine%20%E2%9C%85%20288c79990fa746f890eefa6ca3986c42.md)
-
-[Prey (2022) ✅](Cinema/Prey%20(2022)%20%E2%9C%85%20dc3f77f68e1448d8bc5de88ff62cd94b.md)
-
-[Hell Raiser 2022 ✅](Cinema/Hell%20Raiser%202022%20%E2%9C%85%20be1c75e7b8fb4d4a902da8dde4270328.md)
-
-[No Country for Old Men ✅](Cinema/No%20Country%20for%20Old%20Men%20%E2%9C%85%2000a010e7fbd6417288df0979cdd09698.md)
-
-[Mad max saga ✅](Cinema/Mad%20max%20saga%20%E2%9C%85%2002f93df408cd4048b14ee082dd2bbfbb.md)
-
-[Titanic ✅](Cinema/Titanic%20%E2%9C%85%20dba47bfa8e0e4468a1db3d02dd00fef3.md)
-
-[Lala land ✅](Cinema/Lala%20land%20%E2%9C%85%205e9a4b22153d4d95b9d1d0daebd4c0c2.md)
-
-[Come True (2019) ✅](Cinema/Come%20True%20(2019)%20%E2%9C%85%2067a5f25d90b44cd29f4f122a57bdf78c.md)
-
-[Detension (2019) ✅](Cinema/Detension%20(2019)%20%E2%9C%85%20e9db44dad84b45a1aae415d039881c85.md)
-
-[Detension (2020) ✅](Cinema/Detension%20(2020)%20%E2%9C%85%201224da91aeaa4311ba7f4af153b7ab1d.md)
-
-[Sinister](Cinema/Sinister%20e5ccf817d19d4dc4955fce10248405d6.md)
-
-[21 Jump Street (2012) ✅](Cinema/21%20Jump%20Street%20(2012)%20%E2%9C%85%202477b00908be4b3aa2e841b675e12b17.md)
-
-[Flushed Away ✅](Cinema/Flushed%20Away%20%E2%9C%85%200a2c599568d24498a05aa5a8927139dc.md)
-
-[Minuscule - Valley of the Lost Ants (2013) ✅](Cinema/Minuscule%20-%20Valley%20of%20the%20Lost%20Ants%20(2013)%20%E2%9C%85%208eb373007bc24ac4ba1f859516db46db.md)
-
-[Minuscule - Mandibles from Far Away (2019) ✅](Cinema/Minuscule%20-%20Mandibles%20from%20Far%20Away%20(2019)%20%E2%9C%85%20a8ca35e539cc44688c9d95c5949720be.md)
-
-[Bạch Xà - Duyên Khởi ✅](Cinema/B%E1%BA%A1ch%20X%C3%A0%20-%20Duy%C3%AAn%20Kh%E1%BB%9Fi%20%E2%9C%85%20e1616c8465fc4f8cbc9ef5034e1344b4.md)
-
-[Bạch Xà 2 - Thanh Xà Kiếp Khởi ✅](Cinema/B%E1%BA%A1ch%20X%C3%A0%202%20-%20Thanh%20X%C3%A0%20Ki%E1%BA%BFp%20Kh%E1%BB%9Fi%20%E2%9C%85%205fd984bed1e84a31aff780d65a7c128f.md)
-
-Free Guy ✅
-
-[Back to Future ☑️](Cinema/Back%20to%20Future%20%E2%98%91%EF%B8%8F%20d7d3b0b7f5af4c2ab46c9c465c76b997.md)
-
-Blaze Runner 2049 ✅
-
-[Sausage Party ✅](./Sausage_Party.md)
-
-The Mummy (1999) ✅
-
-[Treasure Planet ✅](./Treasure_Planet.md)
-
-[Wall E ✅](./Wall_E.md)
-
-[Lucy ✅](Cinema/Lucy%20%E2%9C%85%20b568017773414c50824c34074ae55213.md)
-
-[Minority Report (2002)](Cinema/Minority%20Report%20(2002)%20a75ab27b6c024f40b50da204e537e10b.md)
-
-[Altered Carbon - Resleeved (2020)](Cinema/Altered%20Carbon%20-%20Resleeved%20(2020)%20cc31f32bb6a24638aaddc7890206f4e7.md)
-
-[9 (2009) ✅](./9_2009.md)
-
-[A Quiet Place ✅](Cinema/A%20Quiet%20Place%20%E2%9C%85%2016415dc3a5a180d39422eecf55a5b670.md)
-
-[A Quiet Place Part II (2020) ✅](Cinema/A%20Quiet%20Place%20Part%20II%20(2020)%20%E2%9C%85%207214e00017dd4566887cc0c6611c6071.md)
-
-A Quiet Place: Day One (2024)
-
-[Abraham Lincoln - Vampire Hunter (2012) ✅](Cinema/Abraham%20Lincoln%20-%20Vampire%20Hunter%20(2012)%20%E2%9C%85%20fd07c59c706c482780709b6ede700b55.md)
-
-[Alien series ✅](Cinema/Alien%20series%20%E2%9C%85%2016415dc3a5a1807f8e01db8bbdba8ab0.md)
-
-[Army of the Dead (2021) ✅](Cinema/Army%20of%20the%20Dead%20(2021)%20%E2%9C%85%20ffefaffa8a2f47699e237fb17ad2f02f.md)
-
-[Astro Boy (2003) ✅](Cinema/Astro%20Boy%20(2003)%20%E2%9C%85%2090735be8d4fc4708b790234d985f1e7a.md)
-
-[Atlantis ✅](Cinema/Atlantis%20%E2%9C%85%20741b51fb09a9428f942dc3c19678c972.md)
-
-[Biệt Đội Bất Hảo ✅](Cinema/Bi%E1%BB%87t%20%C4%90%E1%BB%99i%20B%E1%BA%A5t%20H%E1%BA%A3o%20%E2%9C%85%207ad47f2d6e0f4afd907675c365ec6ccf.md)
-
-[Chicken Run (2000) ✅](Cinema/Chicken%20Run%20(2000)%20%E2%9C%85%20211f67f33e5444ffb6e24eab65b98c96.md)
-
-[click (2006) ✅](Cinema/click%20(2006)%20%E2%9C%85%20b0cb288cfa994a8c8d129fbea0461c3c.md)
-
-[Coraline ✅](Cinema/Coraline%20%E2%9C%85%20bd30492956a442b89601df09f49c3a23.md)
-
-[Deep Rising (1998) ✅](Cinema/Deep%20Rising%20(1998)%20%E2%9C%85%20e68dcf14b03643828dd6230a70d13a12.md)
-
-- [x]  Despicable Me
-- [x]  Don't Breath
-- [x]  Edward Scissorhands (1990)
-- [x]  Epic (2013)
-- [ ]  G - Force
-- [x]  Get Out
-- [x]  Ghét Thì Yêu Thôi (2018)
-- [x]  Godzilla (2014)
-- [x]  Godzilla vs. Kong
-- [x]  Godzilla x Kong: The new empire
-
-[Harry Potter](Cinema/Harry%20Potter%20a0eb244a51a34945953b90b6e015b6a4.md)
-
-- [x]  Hitman 47
-- [x]  Interstella (2014)
-- [x]  Iron Giant (1999)
-- [x]  isle of dog (2018)
-- [x]  Jack The Giant Slayer (2013)
-- [x]  King Kong
-- [x]  Kingsman
-- [x]  Monster. Inc
-- [x]  Mortal Kombat (2021)
-- [x]  New Gods - Nezha Reborn (2021)
-- [x]  On Ward (2020)
-- [x]  Pixcels (2015)
-- [x]  Pirate of Caribean
-- [x]  Plus One (2019)
-
-[Pride And Prejudice And Zombies (2016) ✅ ](Cinema/Pride%20And%20Prejudice%20And%20Zombies%20(2016)%20%E2%9C%85%2020015dc3a5a180288fe1f24a4525b9fd.md)
-
-[Zathura: A Space Adventure ✅](Cinema/Zathura%20A%20Space%20Adventure%20%E2%9C%85%20092e7d251878488cb9400d3fad438ec0.md)
-
-- [x]  Priest (2011)
-- [x]  Rango
-- [x]  Reign of Fire (2002)
-
-[Resident Evil](Cinema/Resident%20Evil%20a654840669214e5ba625037f4cd1793a.md)
-
-[Silent Hill ✅](Cinema/Silent%20Hill%20%E2%9C%85%201bb6cebd7961419dad9fc412cdbc7103.md)
-
-- [x]  Source Code
-- [ ]  Space Pirate Captain Harlock (2013)
-- [x]  Sweet Home (2020)
-- [x]  The Addams
-- [x]  The Day After Tomorrow (2004)
-- [x]  The Last Witch Hunter
-
-[The Man With The Iron Fists (2012)](Cinema/The%20Man%20With%20The%20Iron%20Fists%20(2012)%20c9c298ba4f434c12b6c06c3809044f69.md)
-
-[The Matrix](Cinema/The%20Matrix%20766e2017da6740c1b17982e328532ffc.md)
-
-The Mist (2007) ✅
-
-[Charlie and the Chocolate Factory ✅](./Charlie_and_the_Chocolate_Factory.md)
-
-- [x]  The Suicide Squad (2021)
-- [x]  The Tomorrow War (2021)
-- [x]  The Worlds End (2013)
-- [x]  Tomorrowland (2015)
-
-[Toy Story Series](Cinema/Toy%20Story%20Series%207c041bc17d994666a6dab7015d66e97b.md)
-
-[Transformers Series](./Transformers_Series.md)
-
-- [ ]  Kingdom of the Planet of the Apes (2024)
-- [x]  Tron Legacy
-- [x]  Underwater (2020)
-- [x]  Upside Down
-- [x]  Valerian and The City of a Thousand Planets
-- [ ]  Resident Evil: Welcome to Racoon city (2021)
-- [ ]  Dawn of the dead (2004) - Zach Snyder
-- [x]  The Kingsman (2022)
-- [ ]  Spiderwick's Chronicles
-- [ ]  The Wheel of Time (2023)
-
-links: [https://www.youtube.com/watch?v=8bbG_Mxhoo8](https://www.youtube.com/watch?v=8bbG_Mxhoo8)
-
-# [X trilogy](Cinema/X%20trilogy%20613fd1ed6a4c491091d98a17bf582784.md)
-
-# [The Creator (2023) ✅](Cinema/The%20Creator%20(2023)%20%E2%9C%85%204fecbb66215e4e23b2eca1ca9d1f9a76.md)
-
-# [M3gan (2023) ✅](Cinema/M3gan%20(2023)%20%E2%9C%85%20e006d1e5a551499b83ab1063a555197c.md)
+- [x] [John Wick 4](./John_Wick_4.md)
+- [x] [Duneons & Dragons: Honor Among Thieves (2023)](./Duneons_n_Dragons_Honor_Among_Thieves_2023.md)
+- [x] [Guadian of the Galaxy Vol.3](Cinema/Guadian%20of%20the%20Galaxy%20Vol%203%20%E2%9C%85%20da42fefa5e3c49469529b3726ec96901.md)
+- [x] [City of Ember](Cinema/City%20of%20Ember%20%E2%9C%85%2046eb7ef0262f47c080a2a9965c36e1e8.md)
+- [x] [Enigma (2023)](Cinema/Enigma%20(2023)%20%E2%9C%85%20a0df79b1005b4762956ec05c4f718253.md)
+- [x] [Moon Fall (2023)](Cinema/Moon%20Fall%20(2023)%20%E2%9C%85%20cea3573d141f495db7c90bb887b06a4d.md)
+- [x] [Reminiscence](Cinema/Reminiscence%20%E2%9C%85%20a9be83fee46148dda33807d59a8a647b.md)
+- [x] [Gulmo De Toro - Pinocchio (2022)](Cinema/Gulmo%20De%20Toro%20-%20Pinocchio%20(2022)%20%E2%9C%85%207155125d649146349441f225bf8f9de2.md)
+- [x] [Nope (2022)](Cinema/Nope%20(2022)%20%E2%9C%85%20d5f44121947b4fa1ac040e2382d50cea.md)
+- [x] [SUPER MARIO BROS - The Movie](Cinema/SUPER%20MARIO%20BROS%20-%20The%20Movie%20%E2%9C%85%204dd46d1b9c604c3b87742bd6e22e7eb3.md)
+- [x] [Avatar (2008)](Cinema/Avatar%20(2008)%20%E2%9C%85%2054eb927f8f564213bfd60f11fb7084fb.md)
+- [x] [Avatar: The Way of Water (2022)](Cinema/Avatar%20The%20Way%20of%20Water%20(2022)%20%E2%9C%85%20fe96346e1469435781f5a5f9e402c1ff.md)
+- [ ] [Sonic the Hedgehog's series](Cinema/Sonic%20the%20Hedgehog%E2%80%99s%20series%20c34e6c9d952f4f8897af4736dce0b99e.md)
+- [x] [ROBOTS (2005)](Cinema/ROBOTS%20(2005)%20%E2%9C%85%206ab852b777c74b9eab6d15f5ec65762c.md)
+- [x] [The Northman (2022)](Cinema/The%20Northman%20(2022)%20%E2%9C%85%2069431a4ca1f247d6a6ed0e52bd2fbd8f.md)
+- [x] [Dune: Trilogy](Cinema/Dune%20Trilogy%20%E2%9C%85%20a3ee3a733ec4405cae2b6954267cd171.md)
+- [x] [Bullet Train](Cinema/Bullet%20Train%20%E2%9C%85%20600a415e642d4c2f9fb9214c51a39414.md)
+- [x] [Constantine](Cinema/Constantine%20%E2%9C%85%20288c79990fa746f890eefa6ca3986c42.md)
+- [x] [Prey (2022)](Cinema/Prey%20(2022)%20%E2%9C%85%20dc3f77f68e1448d8bc5de88ff62cd94b.md)
+- [x] [Hell Raiser 2022](Cinema/Hell%20Raiser%202022%20%E2%9C%85%20be1c75e7b8fb4d4a902da8dde4270328.md)
+- [x] [No Country for Old Men](Cinema/No%20Country%20for%20Old%20Men%20%E2%9C%85%2000a010e7fbd6417288df0979cdd09698.md)
+- [x] [Mad max saga](Cinema/Mad%20max%20saga%20%E2%9C%85%2002f93df408cd4048b14ee082dd2bbfbb.md)
+- [x] [Titanic](Cinema/Titanic%20%E2%9C%85%20dba47bfa8e0e4468a1db3d02dd00fef3.md)
+- [x] [Lala land](Cinema/Lala%20land%20%E2%9C%85%205e9a4b22153d4d95b9d1d0daebd4c0c2.md)
+- [x] [Come True (2019)](Cinema/Come%20True%20(2019)%20%E2%9C%85%2067a5f25d90b44cd29f4f122a57bdf78c.md)
+- [x] [Detension (2019)](Cinema/Detension%20(2019)%20%E2%9C%85%20e9db44dad84b45a1aae415d039881c85.md)
+- [x] [Detension (2020)](Cinema/Detension%20(2020)%20%E2%9C%85%201224da91aeaa4311ba7f4af153b7ab1d.md)
+- [ ] [Sinister](Cinema/Sinister%20e5ccf817d19d4dc4955fce10248405d6.md)
+- [x] [21 Jump Street (2012)](Cinema/21%20Jump%20Street%20(2012)%20%E2%9C%85%202477b00908be4b3aa2e841b675e12b17.md)
+- [x] [Flushed Away](Cinema/Flushed%20Away%20%E2%9C%85%200a2c599568d24498a05aa5a8927139dc.md)
+- [x] [Minuscule - Valley of the Lost Ants (2013)](Cinema/Minuscule%20-%20Valley%20of%20the%20Lost%20Ants%20(2013)%20%E2%9C%85%208eb373007bc24ac4ba1f859516db46db.md)
+- [x] [Minuscule - Mandibles from Far Away (2019)](Cinema/Minuscule%20-%20Mandibles%20from%20Far%20Away%20(2019)%20%E2%9C%85%20a8ca35e539cc44688c9d95c5949720be.md)
+- [x] [Bạch Xà - Duyên Khởi](Cinema/B%E1%BA%A1ch%20X%C3%A0%20-%20Duy%C3%AAn%20Kh%E1%BB%9Fi%20%E2%9C%85%20e1616c8465fc4f8cbc9ef5034e1344b4.md)
+- [x] [Bạch Xà 2 - Thanh Xà Kiếp Khởi](Cinema/B%E1%BA%A1ch%20X%C3%A0%202%20-%20Thanh%20X%C3%A0%20Ki%E1%BA%BFp%20Kh%E1%BB%9Fi%20%E2%9C%85%205fd984bed1e84a31aff780d65a7c128f.md)
+- [x] Free Guy
+- [x] [Back to Future](Cinema/Back%20to%20Future%20%E2%98%91%EF%B8%8F%20d7d3b0b7f5af4c2ab46c9c465c76b997.md)
+- [x] Blaze Runner 2049
+- [x] [Sausage Party](./Sausage_Party.md)
+- [x] The Mummy (1999)
+- [x] [Treasure Planet](./Treasure_Planet.md)
+- [x] [Wall E](./Wall_E.md)
+- [x] [Lucy](Cinema/Lucy%20%E2%9C%85%20b568017773414c50824c34074ae55213.md)
+- [ ] [Minority Report (2002)](Cinema/Minority%20Report%20(2002)%20a75ab27b6c024f40b50da204e537e10b.md)
+- [ ] [Altered Carbon - Resleeved (2020)](Cinema/Altered%20Carbon%20-%20Resleeved%20(2020)%20cc31f32bb6a24638aaddc7890206f4e7.md)
+- [x] [9 (2009)](./9_2009.md)
+- [x] [A Quiet Place](Cinema/A%20Quiet%20Place%20%E2%9C%85%2016415dc3a5a180d39422eecf55a5b670.md)
+- [x] [A Quiet Place Part II (2020)](Cinema/A%20Quiet%20Place%20Part%20II%20(2020)%20%E2%9C%85%207214e00017dd4566887cc0c6611c6071.md)
+- [ ] A Quiet Place: Day One (2024)
+- [x] [Abraham Lincoln - Vampire Hunter (2012)](Cinema/Abraham%20Lincoln%20-%20Vampire%20Hunter%20(2012)%20%E2%9C%85%20fd07c59c706c482780709b6ede700b55.md)
+- [x] [Alien series](Cinema/Alien%20series%20%E2%9C%85%2016415dc3a5a1807f8e01db8bbdba8ab0.md)
+- [x] [Army of the Dead (2021)](Cinema/Army%20of%20the%20Dead%20(2021)%20%E2%9C%85%20ffefaffa8a2f47699e237fb17ad2f02f.md)
+- [x] [Astro Boy (2003)](Cinema/Astro%20Boy%20(2003)%20%E2%9C%85%2090735be8d4fc4708b790234d985f1e7a.md)
+- [x] [Atlantis](Cinema/Atlantis%20%E2%9C%85%20741b51fb09a9428f942dc3c19678c972.md)
+- [x] [Biệt Đội Bất Hảo](Cinema/Bi%E1%BB%87t%20%C4%90%E1%BB%99i%20B%E1%BA%A5t%20H%E1%BA%A3o%20%E2%9C%85%207ad47f2d6e0f4afd907675c365ec6ccf.md)
+- [x] [Chicken Run (2000)](Cinema/Chicken%20Run%20(2000)%20%E2%9C%85%20211f67f33e5444ffb6e24eab65b98c96.md)
+- [x] [click (2006)](Cinema/click%20(2006)%20%E2%9C%85%20b0cb288cfa994a8c8d129fbea0461c3c.md)
+- [x] [Coraline](Cinema/Coraline%20%E2%9C%85%20bd30492956a442b89601df09f49c3a23.md)
+- [x] [Deep Rising (1998)](Cinema/Deep%20Rising%20(1998)%20%E2%9C%85%20e68dcf14b03643828dd6230a70d13a12.md)
+- [x] Despicable Me
+- [x] Don't Breath
+- [x] Edward Scissorhands (1990)
+- [x] Epic (2013)
+- [ ] G - Force
+- [x] Get Out
+- [x] Ghét Thì Yêu Thôi (2018)
+- [x] Godzilla (2014)
+- [x] Godzilla vs. Kong
+- [x] Godzilla x Kong: The new empire
+- [x] [Harry Potter](Cinema/Harry%20Potter%20a0eb244a51a34945953b90b6e015b6a4.md)
+- [x] Hitman 47
+- [x] Interstella (2014)
+- [x] Iron Giant (1999)
+- [x] isle of dog (2018)
+- [x] Jack The Giant Slayer (2013)
+- [x] King Kong
+- [x] Kingsman
+- [x] Monster. Inc
+- [x] Mortal Kombat (2021)
+- [x] New Gods - Nezha Reborn (2021)
+- [x] On Ward (2020)
+- [x] Pixcels (2015)
+- [x] Pirate of Caribean
+- [x] Plus One (2019)
+- [x] [Pride And Prejudice And Zombies (2016)](Cinema/Pride%20And%20Prejudice%20And%20Zombies%20(2016)%20%E2%9C%85%2020015dc3a5a180288fe1f24a4525b9fd.md)
+- [x] [Zathura: A Space Adventure](Cinema/Zathura%20A%20Space%20Adventure%20%E2%9C%85%20092e7d251878488cb9400d3fad438ec0.md)
+- [x] Priest (2011)
+- [x] Rango
+- [x] Reign of Fire (2002)
+- [ ] [Resident Evil](Cinema/Resident%20Evil%20a654840669214e5ba625037f4cd1793a.md)
+- [x] [Silent Hill](Cinema/Silent%20Hill%20%E2%9C%85%201bb6cebd7961419dad9fc412cdbc7103.md)
+- [x] Source Code
+- [ ] Space Pirate Captain Harlock (2013)
+- [x] Sweet Home (2020)
+- [x] The Addams
+- [x] The Day After Tomorrow (2004)
+- [x] The Last Witch Hunter
+- [ ] [The Man With The Iron Fists (2012)](Cinema/The%20Man%20With%20The%20Iron%20Fists%20(2012)%20c9c298ba4f434c12b6c06c3809044f69.md)
+- [ ] [The Matrix](Cinema/The%20Matrix%20766e2017da6740c1b17982e328532ffc.md)
+- [x] The Mist (2007)
+- [x] [Charlie and the Chocolate Factory](./Charlie_and_the_Chocolate_Factory.md)
+- [x] The Suicide Squad (2021)
+- [x] The Tomorrow War (2021)
+- [x] The Worlds End (2013)
+- [x] Tomorrowland (2015)
+- [ ] [Toy Story Series](Cinema/Toy%20Story%20Series%207c041bc17d994666a6dab7015d66e97b.md)
+- [ ] [Transformers Series](./Transformers_Series.md)
+- [ ] Kingdom of the Planet of the Apes (2024)
+- [x] Tron Legacy
+- [x] Underwater (2020)
+- [x] Upside Down
+- [x] Valerian and The City of a Thousand Planets
+- [ ] Resident Evil: Welcome to Racoon city (2021)
+- [ ] Dawn of the dead (2004) - Zach Snyder
+- [x] The Kingsman (2022)
+- [ ] Spiderwick's Chronicles
+- [ ] The Wheel of Time (2023)
+  - links: [https://www.youtube.com/watch?v=8bbG_Mxhoo8](https://www.youtube.com/watch?v=8bbG_Mxhoo8)
+- [ ] [X trilogy](Cinema/X%20trilogy%20613fd1ed6a4c491091d98a17bf582784.md)
+- [x] [The Creator (2023)](Cinema/The%20Creator%20(2023)%20%E2%9C%85%204fecbb66215e4e23b2eca1ca9d1f9a76.md)
+- [x] [M3gan (2023)](Cinema/M3gan%20(2023)%20%E2%9C%85%20e006d1e5a551499b83ab1063a555197c.md)
 
 # Phong Than Tam Bo Khuc
 
@@ -574,3 +493,15 @@ dance in vampire bund
 - [x] [Parasite Dolls (2003)](./Parasite_Dolls_2003.md)
 - [x] [Frankenstein (2025)](./Frankenstein_2025.md)
 - [x] [Kung Fu Hustle (2004)](./Kung_Fu_Hustle_2004.md)
+
+# Studio Ghibli
+
+- [x] [Spirited Away](./Spirited_Away.md)
+- [x] The Wind Rises
+- [x] Howl Moving Castle
+- [x] From Up On Poppy Hill
+- [x] The Secret World of Arrietty
+- [x] Princess Mononoke
+- [x] Nausicaa - Princess of the Valley
+- [x] Laputa Flying Castle
+- [x] [The Boy and the Heron](./The_Boy_and_the_Heron.md)
