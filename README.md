@@ -620,3 +620,5 @@ Hell’s Paradise. Enemy’s name: Zhu Zun Amoghavajra.
 # Frankenstein (2025) ✅
 
 Good to go, another approach, but still average.
+
+# [Kung Fu Hustle (2004) ✅](./Kung_Fu_Hustle_2004.md)
