@@ -599,26 +599,14 @@ Pluto
 
 [Blue eye samurai](Cinema/Blue%20eye%20samurai%2015415dc3a5a180dc87efd6f932496e3d.md)
 
-# [Kite 1998 ✅](./Kite_1998.md)
-
-# Hell’s Paradise.
-
-# Once Upon a Time in Hollywood ✅
-
-# [Evil Dead Series ✅](./Evil_Dead_Series.md)
-
-# [FLOW (lạc trôi) - 2024 ✅](./Flow_2024.md)
-
-# [Bram Stoker's Dracula ✅](./Bram_Stocker_Dracula_1992.md)
-
-# [Water World 1995 ✅](./Water_World_1995.md)
-
-# [Midsomar 2019 ✅](./Midsomar_2019.md)
-
-# [Parasite Dolls (2003) ✅](./Parasite_Dolls_2003.md)
-
-# Frankenstein (2025) ✅
-
-Good to go, another approach, but still average.
-
-# [Kung Fu Hustle (2004) ✅](./Kung_Fu_Hustle_2004.md)
+- [x] [Kite 1998](./Kite_1998.md)
+- [ ] Hell’s Paradise.
+- [x] Once Upon a Time in Hollywood
+- [x] [Evil Dead Series](./Evil_Dead_Series.md)
+- [x] [FLOW (lạc trôi) - 2024](./Flow_2024.md)
+- [x] [Bram Stoker's Dracula](./Bram_Stocker_Dracula_1992.md)
+- [x] [Water World 1995](./Water_World_1995.md)
+- [x] [Midsomar 2019](./Midsomar_2019.md)
+- [x] [Parasite Dolls (2003)](./Parasite_Dolls_2003.md)
+- [x] [Frankenstein (2025)](./Frankenstein_2025.md)
+- [x] [Kung Fu Hustle (2004)](./Kung_Fu_Hustle_2004.md)
