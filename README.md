@@ -455,17 +455,17 @@ TENGOKU DAIMAKYOU
 
 # [Cowboy Bebop ✅](./Cowboy_Bebop.md)
 
-Lupin
+# Lupin
 
 # Perfect blue ✅
 
-[Roujin Z (1991) ✅](Cinema/Roujin%20Z%20(1991)%20%E2%9C%85%2017f15dc3a5a18054ab49d86d5758cd9a.md)
+# [Roujin Z (1991) ✅](./Roujin_Z_1991.md)
 
 Gyo Junji Ito
 
 Drifter
 
-[Record of Ragnarok ✅](Cinema/Record%20of%20Ragnarok%20%E2%9C%85%20886fc3d37a1f406a80837c2f1b4f0142.md)
+# [Record of Ragnarok ☑️](./Record_of_Ragnarok.md)
 
 # [**JoJo's Bizarre Adventure** ✅](./JoJo_Bizarre_Adventure.md)
 
@@ -479,7 +479,7 @@ Drifters
 
 Ghost In The Shell: Innocence
 
-[Chainsaw Man](./Chainsaw_Man.md)
+# [Chainsaw Man ☑️](./Chainsaw_Man.md)
 
 highlander the search for vengeance (2007)
 
@@ -541,7 +541,7 @@ My Dress Up Darling
 
 # Red Line (2005) ✅
 
-[Berserk ✅](Cinema/Berserk%20%E2%9C%85%202f6194fd49804738ac712b3d47635c44.md)
+# [Berserk ☑️](./Berserk.md)
 
 # Ninja Scroll (1993) ✅
 
@@ -601,7 +601,7 @@ Pluto
 
 # [Kite 1998 ✅](./Kite_1998.md)
 
-Hell’s Paradise. Enemy’s name: Zhu Zun Amoghavajra.
+# Hell’s Paradise.
 
 # Once Upon a Time in Hollywood ✅
 
