@@ -527,78 +527,42 @@ kabaneri of the iron fortress
 
 dance in vampire bund
 
-My Dress Up Darling
-
-# Demon Slayer (SS1) ✅
-
-# Demon Slayer (SS2) ✅
-
-# Demon Slayer - Mugen Train ✅
-
-# [Parasite (Anime) ✅](./Parasite_Anime.md)
-
-# Jin-Roh: The Wolf Brigade ✅
-
-# Red Line (2005) ✅
-
-# [Berserk ☑️](./Berserk.md)
-
-# Ninja Scroll (1993) ✅
-
-# Vampire Hunter D: Bloodlust ✅
-
-[Vagabond](Cinema/Vagabond%20f59c41f25a8b40d9845ec34363a12cf9.md)
-
-[Bibliomania](Cinema/Bibliomania%207a432eb7eefc41bfac2bc97dadd048f1.md)
-
-[DORORO](Cinema/DORORO%207667304c0c0a489782c39bd7aced253f.md)
-
-# [Death Parade ✅](./Death_Parade.md)
-
-# [Sword Art Online ✅](./Sword_Art_Online.md)
-
-# Darling in the Franxx ✅
-
-# [Akira (1988) ✅](./Akira_1988.md)
-
-# [Hyouka ✅](./Hyouka.md)
-
-# One-Punch Man ✅
-
-# [Attack on Titan ✅](./Attack_on_Titan.md)
-
-# Tokyo Ghoul ✅
-
-[Grantz O](Cinema/Grantz%20O%20de1f567e370940b09a00ea610480f2ff.md)
-
-# Jujustu Kaisen (SS1) ✅
-
-# Tokyo Revenger (SS1) ✅
-
-# [Paprika ✅](./Paprika.md)
-
-[Trigun Stamdepe](Cinema/Trigun%20Stamdepe%207b318a9739374b4e9753dd5a5823e728.md)
-
-[Suisei no Gargantia](Cinema/Suisei%20no%20Gargantia%20bbdcda859a8241e8bb46eed6700c2b12.md)
-
-# [Cyberpunk 2077: Edge Runner ✅](./Cyberpunk_2077_Edge_Runner.md)
-
-[D-1 Devastator!](Cinema/D-1%20Devastator!%20256514b354064dccb1c97b46f6036412.md)
-
-Title: Metal Skin Panic MADOX-01
-
-# Angel's Egg (1985) ✅
-
-[The Memories (1995)](Cinema/The%20Memories%20(1995)%2011c15dc3a5a18019af53c6dd7aa5737f.md)
-
-[Castlevania](Cinema/Castlevania%2013a15dc3a5a180b3be88c705fd6268e1.md)
-
-[**Terminator Zero (2024)**](Cinema/Terminator%20Zero%20(2024)%2013a15dc3a5a1806a8912ce5748a10f07.md)
-
-Pluto
-
-[Blue eye samurai](Cinema/Blue%20eye%20samurai%2015415dc3a5a180dc87efd6f932496e3d.md)
-
+- [ ] My Dress Up Darling
+- [x] Demon Slayer (SS1)
+- [x] Demon Slayer (SS2)
+- [x] Demon Slayer - Mugen Train
+- [x] [Parasite (Anime)](./Parasite_Anime.md)
+- [x] Jin-Roh: The Wolf Brigade
+- [x] Red Line (2005)
+- [x] [Berserk](./Berserk.md)
+- [x] Ninja Scroll (1993)
+- [x] Vampire Hunter D: Bloodlust
+- [ ] [Vagabond](Cinema/Vagabond%20f59c41f25a8b40d9845ec34363a12cf9.md)
+- [ ] [Bibliomania](Cinema/Bibliomania%207a432eb7eefc41bfac2bc97dadd048f1.md)
+- [ ] [DORORO](Cinema/DORORO%207667304c0c0a489782c39bd7aced253f.md)
+- [x] [Death Parade](./Death_Parade.md)
+- [x] [Sword Art Online](./Sword_Art_Online.md)
+- [x] Darling in the Franxx
+- [x] [Akira (1988)](./Akira_1988.md)
+- [x] [Hyouka](./Hyouka.md)
+- [x] One-Punch Man
+- [x] [Attack on Titan](./Attack_on_Titan.md)
+- [x] Tokyo Ghoul
+- [ ] [Grantz O](Cinema/Grantz%20O%20de1f567e370940b09a00ea610480f2ff.md)
+- [x] Jujustu Kaisen (SS1)
+- [x] Tokyo Revenger (SS1)
+- [x] [Paprika](./Paprika.md)
+- [ ] [Trigun Stamdepe](Cinema/Trigun%20Stamdepe%207b318a9739374b4e9753dd5a5823e728.md)
+- [ ] [Suisei no Gargantia](Cinema/Suisei%20no%20Gargantia%20bbdcda859a8241e8bb46eed6700c2b12.md)
+- [x] [Cyberpunk 2077: Edge Runner](./Cyberpunk_2077_Edge_Runner.md)
+- [ ] [D-1 Devastator!](Cinema/D-1%20Devastator!%20256514b354064dccb1c97b46f6036412.md)
+- [ ] Metal Skin Panic MADOX-01
+- [x] Angel's Egg (1985)
+- [ ] [The Memories (1995)](Cinema/The%20Memories%20(1995)%2011c15dc3a5a18019af53c6dd7aa5737f.md)
+- [ ] [Castlevania](Cinema/Castlevania%2013a15dc3a5a180b3be88c705fd6268e1.md)
+- [ ] [**Terminator Zero (2024)**](Cinema/Terminator%20Zero%20(2024)%2013a15dc3a5a1806a8912ce5748a10f07.md)
+- [ ] Pluto
+- [ ] [Blue eye samurai](Cinema/Blue%20eye%20samurai%2015415dc3a5a180dc87efd6f932496e3d.md)
 - [x] [Kite 1998](./Kite_1998.md)
 - [ ] Hell’s Paradise.
 - [x] Once Upon a Time in Hollywood
