@@ -175,14 +175,14 @@
 - [ ] Dredd
 - [ ] KLAUS
 - [ ] [CON NHÀ GIÀU "VƯỢT SƯỚNG" như thế nào? - GIẢI THÍCH KLAUS](https://www.youtube.com/watch?v=LCab1ueAsU4)
-- [ ] [Se7en (Seven)](Cinema/Se7en%20(Seven)%20d95ffbc7ab45475ebcf3ecdf02013041.md)
+- [ ] [Se7en (Seven)](./Se7en_(Seven).md)
 - [ ] American Psycho (2000)
-- [ ] [The Empty Man](Cinema/The%20Empty%20Man%20988d39936b1643718fb61a8d6bafa75e.md)
-- [ ] [The Magligent (2021)](Cinema/The%20Magligent%20(2021)%209137cb8f927f4e38a5f7554b60e0aba3.md)
-- [ ] [I saw the devil (2010)](Cinema/I%20saw%20the%20devil%20(2010)%2065b49cf0d5a94c95a72365844446c89a.md)
-- [ ] [The silent of the lambs](Cinema/The%20silent%20of%20the%20lambs%20ac8ec5e81e994336af5b6a0beef31cac.md)
-- [ ] [Suicide Club](Cinema/Suicide%20Club%20b99e5ff60e5641258685a5e317b0d934.md)
-- [ ] [Fight Club - Stephen King](Cinema/Fight%20Club%20-%20Stephen%20King%20a69709051d4345dca686e8b6a3e402e5.md)
+- [ ] [The Empty Man](./The_Empty_Man.md)
+- [ ] [The Magligent (2021)](./The_Magligent_(2021).md)
+- [ ] [I saw the devil (2010)](./I_saw_the_devil_(2010).md)
+- [ ] [The silent of the lambs](./The_silent_of_the_lambs.md)
+- [ ] [Suicide Club](./Suicide_Club.md)
+- [ ] [Fight Club - Stephen King](./Fight_Club_-_Stephen_King.md)
 - [ ] Drive (2011)
 - [ ] Men (2022)
 - [ ] Sói già phố wall
