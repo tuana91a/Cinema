@@ -83,28 +83,28 @@
 - [x] Pixcels (2015)
 - [x] Pirate of Caribean
 - [x] Plus One (2019)
-- [x] [Pride And Prejudice And Zombies (2016)](Cinema/Pride%20And%20Prejudice%20And%20Zombies%20(2016)%20%E2%9C%85%2020015dc3a5a180288fe1f24a4525b9fd.md)
-- [x] [Zathura: A Space Adventure](Cinema/Zathura%20A%20Space%20Adventure%20%E2%9C%85%20092e7d251878488cb9400d3fad438ec0.md)
+- [x] [Pride And Prejudice And Zombies (2016)](./Pride_And_Prejudice_And_Zombies_(2016).md)
+- [x] [Zathura: A Space Adventure](./Zathura_A_Space_Adventure.md)
 - [x] Priest (2011)
 - [x] Rango
 - [x] Reign of Fire (2002)
-- [ ] [Resident Evil](Cinema/Resident%20Evil%20a654840669214e5ba625037f4cd1793a.md)
-- [x] [Silent Hill](Cinema/Silent%20Hill%20%E2%9C%85%201bb6cebd7961419dad9fc412cdbc7103.md)
+- [ ] [Resident Evil](./Resident_Evil.md)
+- [x] [Silent Hill](./Silent_Hill.md)
 - [x] Source Code
 - [ ] Space Pirate Captain Harlock (2013)
 - [x] Sweet Home (2020)
 - [x] The Addams
 - [x] The Day After Tomorrow (2004)
 - [x] The Last Witch Hunter
-- [ ] [The Man With The Iron Fists (2012)](Cinema/The%20Man%20With%20The%20Iron%20Fists%20(2012)%20c9c298ba4f434c12b6c06c3809044f69.md)
-- [ ] [The Matrix](Cinema/The%20Matrix%20766e2017da6740c1b17982e328532ffc.md)
+- [ ] [The Man With The Iron Fists (2012)](./The_Man_With_The_Iron_Fists_(2012).md)
+- [ ] [The Matrix](./The_Matrix.md)
 - [x] The Mist (2007)
 - [x] [Charlie and the Chocolate Factory](./Charlie_and_the_Chocolate_Factory.md)
 - [x] The Suicide Squad (2021)
 - [x] The Tomorrow War (2021)
 - [x] The Worlds End (2013)
 - [x] Tomorrowland (2015)
-- [ ] [Toy Story Series](Cinema/Toy%20Story%20Series%207c041bc17d994666a6dab7015d66e97b.md)
+- [ ] [Toy Story Series](./Toy_Story_Series.md)
 - [ ] [Transformers Series](./Transformers_Series.md)
 - [ ] Kingdom of the Planet of the Apes (2024)
 - [x] Tron Legacy
@@ -117,9 +117,9 @@
 - [ ] Spiderwick's Chronicles
 - [ ] The Wheel of Time (2023)
   - links: [https://www.youtube.com/watch?v=8bbG_Mxhoo8](https://www.youtube.com/watch?v=8bbG_Mxhoo8)
-- [ ] [X trilogy](Cinema/X%20trilogy%20613fd1ed6a4c491091d98a17bf582784.md)
-- [x] [The Creator (2023)](Cinema/The%20Creator%20(2023)%20%E2%9C%85%204fecbb66215e4e23b2eca1ca9d1f9a76.md)
-- [x] [M3gan (2023)](Cinema/M3gan%20(2023)%20%E2%9C%85%20e006d1e5a551499b83ab1063a555197c.md)
+- [ ] [X trilogy](./X_trilogy.md)
+- [x] [The Creator (2023)](./The_Creator_(2023).md)
+- [x] [M3gan (2023)](./M3gan_(2023).md)
 - [ ] [Phong Than Tam Bo Khuc](./Phong_Than_Tam_Bo_Khuc.md)
 - [ ] [Noah (2014)](./Noah_(2014).md)
 - [ ] [Pulp Fiction (1994)](./Pulp_Fiction_(1994).md)
