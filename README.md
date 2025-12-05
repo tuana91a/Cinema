@@ -315,7 +315,7 @@
 - [x] [Frankenstein (2025)](./Frankenstein_2025.md)
 - [x] [Kung Fu Hustle (2004)](./Kung_Fu_Hustle_2004.md)
 
-# Studio Ghibli
+# [Studio Ghibli](./Studio_Ghibli.md)
 
 - [x] [Spirited Away](./Spirited_Away.md)
 - [x] The Wind Rises
