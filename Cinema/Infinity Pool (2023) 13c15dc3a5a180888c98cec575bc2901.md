@@ -1,3 +1,0 @@
-# Infinity Pool (2023)
-
-[[Review Phim] Tương Lai Người Giàu Có Thể Tự Do Phạm Tội Mà Không Chịu Hậu Quả](https://youtu.be/qicYq-KBDoY?si=W9pQgIwJleROOYJn)
