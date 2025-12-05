@@ -315,6 +315,7 @@
 - [x] [Frankenstein (2025)](./Frankenstein_2025.md)
 - [x] [Kung Fu Hustle (2004)](./Kung_Fu_Hustle_2004.md)
 - [x] [Blink Twice](./Blink_Twice.md)
+- [x] [Together 2025](./Together_2025.md)
 
 # [Studio Ghibli](./Studio_Ghibli.md)
 
