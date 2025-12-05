@@ -68,7 +68,7 @@
 - [x] Godzilla (2014)
 - [x] Godzilla vs. Kong
 - [x] Godzilla x Kong: The new empire
-- [x] [Harry Potter](Cinema/Harry%20Potter%20a0eb244a51a34945953b90b6e015b6a4.md)
+- [x] [Harry Potter](./Harry_Potter.md)
 - [x] Hitman 47
 - [x] Interstella (2014)
 - [x] Iron Giant (1999)
@@ -117,7 +117,6 @@
 - [ ] Spiderwick's Chronicles
 - [ ] The Wheel of Time (2023)
   - links: [https://www.youtube.com/watch?v=8bbG_Mxhoo8](https://www.youtube.com/watch?v=8bbG_Mxhoo8)
-- [ ] [X trilogy](./X_trilogy.md)
 - [x] [The Creator (2023)](./The_Creator_(2023).md)
 - [x] [M3gan (2023)](./M3gan_(2023).md)
 - [ ] [Phong Than Tam Bo Khuc](./Phong_Than_Tam_Bo_Khuc.md)
@@ -333,3 +332,9 @@
 - [ ] Gundam Seed
 - [x] [MS GUNDAM: IRON-BLOODED ORPHANS](./MS_GUNDAM_IRON-BLOODED_ORPHANS.md)
 - [ ] [**Gundam: Requiem for Vengeance (2024)**](./Gundam_Requiem_for_Vengeance_2024.md)
+
+# [X trilogy](./X_trilogy.md)
+
+- [x] X (2022)
+- [x] [X: Perl (2022)](./X_Pearl.md)
+- [x] X: Maxinne (2024)
