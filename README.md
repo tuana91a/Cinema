@@ -226,7 +226,7 @@
 - [x] [Arcane - RiotGames](./Arcane_-_RiotGames.md)
 - [ ] Record of Lodoss War
 - [ ] Blade the Vampire Hunter (1981)
-- [ ] [Gintama](Cinema/Gintama%20e711645dc44244ca8f2fa3f216f7781f.md)
+- [ ] [Gintama](./Gintama.md)
 - [ ] Akame Ga Kill
 - [ ] Zom 100: Bucket List of the Dead
 - [ ] Prison School
@@ -242,7 +242,7 @@
 - [x] [**JoJo's Bizarre Adventure**](./JoJo_Bizarre_Adventure.md)
 - [ ] JIGOKURAKU - Địa ngục cực lạc (Anime)
 - [ ] No Game, No Life
-- [ ] [Vinland Saga](Cinema/Vinland%20Saga%20b896336b1edf424c9aba04fac3d9eac9.md)
+- [ ] [Vinland Saga](./Vinland_Saga.md)
 - [ ] Drifters
 - [ ] Ghost In The Shell: Innocence
 - [x] [Chainsaw Man](./Chainsaw_Man.md)
@@ -278,9 +278,9 @@
 - [x] [Berserk](./Berserk.md)
 - [x] Ninja Scroll (1993)
 - [x] Vampire Hunter D: Bloodlust
-- [ ] [Vagabond](Cinema/Vagabond%20f59c41f25a8b40d9845ec34363a12cf9.md)
-- [ ] [Bibliomania](Cinema/Bibliomania%207a432eb7eefc41bfac2bc97dadd048f1.md)
-- [ ] [DORORO](Cinema/DORORO%207667304c0c0a489782c39bd7aced253f.md)
+- [ ] [Vagabond](./Vagabond.md)
+- [ ] [Bibliomania](./Bibliomania.md)
+- [ ] [DORORO](./DORORO.md)
 - [x] [Death Parade](./Death_Parade.md)
 - [x] [Sword Art Online](./Sword_Art_Online.md)
 - [x] Darling in the Franxx
@@ -289,21 +289,21 @@
 - [x] One-Punch Man
 - [x] [Attack on Titan](./Attack_on_Titan.md)
 - [x] Tokyo Ghoul
-- [ ] [Grantz O](Cinema/Grantz%20O%20de1f567e370940b09a00ea610480f2ff.md)
+- [ ] [Grantz O](./Grantz_O.md)
 - [x] Jujustu Kaisen (SS1)
 - [x] Tokyo Revenger (SS1)
 - [x] [Paprika](./Paprika.md)
-- [ ] [Trigun Stamdepe](Cinema/Trigun%20Stamdepe%207b318a9739374b4e9753dd5a5823e728.md)
-- [ ] [Suisei no Gargantia](Cinema/Suisei%20no%20Gargantia%20bbdcda859a8241e8bb46eed6700c2b12.md)
+- [ ] [Trigun Stamdepe](./Trigun_Stamdepe.md)
+- [ ] [Suisei no Gargantia](./Suisei_no_Gargantia.md)
 - [x] [Cyberpunk 2077: Edge Runner](./Cyberpunk_2077_Edge_Runner.md)
-- [ ] [D-1 Devastator!](Cinema/D-1%20Devastator!%20256514b354064dccb1c97b46f6036412.md)
+- [ ] [D-1 Devastator!](./D-1_Devastator!.md)
 - [ ] Metal Skin Panic MADOX-01
 - [x] Angel's Egg (1985)
-- [ ] [The Memories (1995)](Cinema/The%20Memories%20(1995)%2011c15dc3a5a18019af53c6dd7aa5737f.md)
-- [ ] [Castlevania](Cinema/Castlevania%2013a15dc3a5a180b3be88c705fd6268e1.md)
-- [ ] [**Terminator Zero (2024)**](Cinema/Terminator%20Zero%20(2024)%2013a15dc3a5a1806a8912ce5748a10f07.md)
+- [ ] [The Memories (1995)](./The_Memories_(1995).md)
+- [ ] [Castlevania](./Castlevania.md)
+- [ ] [**Terminator Zero (2024)**](./Terminator_Zero_(2024).md)
 - [ ] Pluto
-- [ ] [Blue eye samurai](Cinema/Blue%20eye%20samurai%2015415dc3a5a180dc87efd6f932496e3d.md)
+- [ ] [Blue eye samurai](./Blue_eye_samurai.md)
 - [x] [Kite 1998](./Kite_1998.md)
 - [ ] Hell’s Paradise.
 - [x] Once Upon a Time in Hollywood

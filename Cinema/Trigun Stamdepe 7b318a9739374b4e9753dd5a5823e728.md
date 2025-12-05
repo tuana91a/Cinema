@@ -1,3 +1,0 @@
-# Trigun Stamdepe
-
-description: Đẹp mắt, hiệp sĩ với cây thánh giá có thể biến hóa thành súng

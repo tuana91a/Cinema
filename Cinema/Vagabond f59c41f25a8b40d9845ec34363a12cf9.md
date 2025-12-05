@@ -1,3 +1,0 @@
-# Vagabond
-
-links: [TÓM TẮT | MANGA VAGABOND CHAP 1- 327](https://www.youtube.com/watch?v=Y-hJujqYDF0)

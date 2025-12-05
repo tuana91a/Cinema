@@ -1,3 +1,0 @@
-# DORORO
-
-[TÓM TẮT | DORORO - SIÊU PHẨM DIỆT QUỶ | MẤT TAY MẤT CHÂN, THÌ ĐI KIẾM LẠI..!!](https://youtu.be/zKtykCSfD54?si=asG_GEq6JWimB2h2)
