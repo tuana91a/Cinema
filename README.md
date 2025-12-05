@@ -314,6 +314,7 @@
 - [x] [Parasite Dolls (2003)](./Parasite_Dolls_2003.md)
 - [x] [Frankenstein (2025)](./Frankenstein_2025.md)
 - [x] [Kung Fu Hustle (2004)](./Kung_Fu_Hustle_2004.md)
+- [x] [Blink Twice](./Blink_Twice.md)
 
 # [Studio Ghibli](./Studio_Ghibli.md)
 
