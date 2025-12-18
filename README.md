@@ -352,6 +352,7 @@
 
 - [x] [A Quiet Place](./Cinema/A_Quiet_Place.md)
 - [x] [A Quiet Place Part II (2020)](./Cinema/A_Quiet_Place_Part_II_2020.md)
-- [ ] A Quiet Place: Day One (2024)
+- [x] A Quiet Place: Day One (2024)
+  - alien queen, but nothing special
 
 # [Alien series](./Alien_series.md)
