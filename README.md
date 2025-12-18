@@ -316,7 +316,9 @@
 - [x] [Kung Fu Hustle (2004)](./Kung_Fu_Hustle_2004.md)
 - [x] [Blink Twice](./Blink_Twice.md)
 - [x] [Together 2025](./Together_2025.md)
-- [X] Re:born 2016 https://www.youtube.com/shorts/3Z3pb2VJXao
+- [x] Re:born 2016 https://www.youtube.com/shorts/3Z3pb2VJXao
+- [x] Immortals (2011)
+  - nah
 
 # [Studio Ghibli](./Studio_Ghibli.md)
 
