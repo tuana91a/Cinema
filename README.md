@@ -313,6 +313,7 @@
 - [x] Re:born 2016 https://www.youtube.com/shorts/3Z3pb2VJXao
 - [x] Immortals (2011)
   - nah
+- [x] [Sleeping Beauty (2011)](./Sleeping_Beauty_2011.md)
 
 # [Studio Ghibli](./Studio_Ghibli.md)
 
