@@ -314,6 +314,7 @@
 - [x] Immortals (2011)
   - nah
 - [x] [Sleeping Beauty (2011)](./Sleeping_Beauty_2011.md)
+- [x] [The Neon Demon (2016)](./The_Neon_Demon_2016.md)
 
 # [Studio Ghibli](./Studio_Ghibli.md)
 
