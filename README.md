@@ -346,7 +346,7 @@
 
 - [x] [Avatar (2008)](./Cinema/Avatar_2008.md)
 - [x] [Avatar: The Way of Water (2022)](./Cinema/Avatar_The_Way_of_Water_2022.md)
-- [ ] Avatar: Fire and Ash (2025)
+- [x] Avatar: Fire and Ash (2025)
 
 # [Dune: Trilogy](./Cinema/Dune_Trilogy.md)
 
