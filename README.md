@@ -316,6 +316,7 @@
 - [x] [Sleeping Beauty (2011)](./Sleeping_Beauty_2011.md)
 - [x] [The Neon Demon (2016)](./The_Neon_Demon_2016.md)
 - [x] [The LEGO Batman Movie (2017)](./The_LEGO_Batman_Movie_2017.md)
+- [x] [IT: Welcome to Derry Chapter 1](./IT_Welcome_to_Derry_Chapter_1.md)
 
 # [Studio Ghibli](./Studio_Ghibli.md)
 
