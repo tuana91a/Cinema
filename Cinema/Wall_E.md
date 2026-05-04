@@ -1,3 +1,0 @@
-# Wall E ✅
-
-Legendary

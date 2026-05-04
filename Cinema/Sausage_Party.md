@@ -1,3 +1,0 @@
-# Sausage Party ✅
-
-bệnh hoạn ✌️

@@ -1,3 +1,0 @@
-# Coraline ✅
-
-description: Laika Laika

@@ -1,55 +1,95 @@
 # Cinema
 
-- [x] [John Wick 4](./Cinema/John_Wick_4.md)
-- [x] [Dungeons & Dragons: Honor Among Thieves (2023)](./Cinema/Dungeons_n_Dragons_Honor_Among_Thieves_2023.md)
-- [x] [Guadian of the Galaxy Vol.3](./Cinema/Guadian_of_the_Galaxy_Vol_3.md)
-- [x] [City of Ember](./Cinema/City_of_Ember.md)
-- [x] [Enigma (2023)](./Cinema/Enigma_2023.md)
-- [x] [Moon Fall (2023)](./Cinema/Moon_Fall_2023.md)
-- [x] [Reminiscence](./Cinema/Reminiscence.md)
-- [x] [Gulmo De Toro - Pinocchio (2022)](./Cinema/Gulmo_De_Toro_Pinocchio_2022.md)
-- [x] [Nope (2022)](./Cinema/Nope_2022.md)
-- [x] [SUPER MARIO BROS - The Movie](./Cinema/SUPER_MARIO_BROS_The_Movie.md)
-- [x] [ROBOTS (2005)](./Cinema/ROBOTS_2005.md)
-- [x] [The Northman (2022)](./Cinema/The_Northman_2022.md)
-- [x] [Bullet Train](./Cinema/Bullet_Train.md)
-- [x] [Constantine](./Cinema/Constantine.md)
-- [x] [Prey (2022)](./Cinema/Prey_2022.md)
-- [x] [Hell Raiser 2022](./Cinema/Hell_Raiser_2022.md)
-- [x] [No Country for Old Men](./Cinema/No_Country_for_Old_Men.md)
-- [x] [Mad max saga](./Cinema/Mad_max_saga.md)
-- [x] [Titanic](./Cinema/Titanic.md)
-- [x] [Lala land](./Cinema/Lala_land.md)
-- [x] [Come True (2019)](./Cinema/Come_True_2019.md)
-- [x] [Detension (2019)](./Cinema/Detension_2019.md)
-- [x] [Detension (2020)](./Cinema/Detension_2020.md)
-- [ ] [Sinister](./Cinema/Sinister.md)
-- [x] [21 Jump Street (2012)](./Cinema/21_Jump_Street_2012.md)
-- [x] [Flushed Away](./Cinema/Flushed_Away.md)
-- [x] [Minuscule - Valley of the Lost Ants (2013)](./Cinema/Minuscule_Valley_of_the_Lost_Ants_2013.md)
-- [x] [Minuscule - Mandibles from Far Away (2019)](./Cinema/Minuscule_Mandibles_from_Far_Away_2019.md)
-- [x] [Bạch Xà - Duyên Khởi](./Bạch_Xà_Duyên_Khởi.md)
-- [x] [Bạch Xà 2 - Thanh Xà Kiếp Khởi](./Bạch_Xà_2_Thanh_Xà_Kiếp_Khởi.md)
+- [x] John Wick 4
+  - description: John Wick Series
+  - review: like shit
+  - year: 2023
+- [x] Dungeons & Dragons: Honor Among Thieves (2023)
+  - review: D&D world is really interesting
+  - year: 2023
+- [x] Guadian of the Galaxy Vol.3
+  - description: pretty good in comparison to other mavel movies
+  - year: 2023
+- [x] City of Ember
+  - description: Post Apocalypse
+  - tuổi thơ về một thành phố ngầm, sau đó có 2 đứa trẻ chui lên được khỏi mặt đất và wtf
+  - 2 chúng nó sau này rồi sao 🙂
+- [x] Enigma (2023)
+  - description: Thai movie with beautifull girl
+  - year: 2023
+  - được mỗi nhân vật chính xinh, còn lại thì nội dung cũng bình thường
+- [x] Moon Fall (2023)
+  - description: Apocalypse
+  - year: 2023
+- [x] Reminiscence
+  - description: Hugh Jackman
+  - review: ok
+- [x] Gulmo De Toro - Pinocchio (2022)
+  - bất tử để làm gì
+  - xem hay, nhẹ nhàng, mà đúng chất gulmo de toro
+- [x] Nope (2022)
+  - description: Jodan Pele
+  - review: ok
+  - Người ngoài hành tinh và ai mới là nhân vật chính
+- [x] SUPER MARIO BROS - The Movie
+  - year: 2023
+  - done
+- [x] ROBOTS (2005)
+- [x] The Northman (2022)
+  - description: Anya Taylor-Joy
+  - cũng hay
+- [x] Bullet Train
+  - xem giải trí vl, nói chung là ổn
+- [x] Constantine
+- [x] Prey (2022)
+  - Predator, alien, …
+- [x] Hell Raiser 2022
+  - review: interesting, ổn áp
+- [x] No Country for Old Men
+  - đỉnh thực sự về tâm lý tội phạm lẫn nỗi sợ một thứ mà mình đéo biết
+- [x] Titanic
+- [x] Lala land
+- [x] Come True (2019)
+  - review: nói chung là hay
+- [x] Detension (2019)
+- [x] Detension (2020)
+- [ ] Sinister
+- [x] 21 Jump Street (2012)
+- [x] Flushed Away
+  - description: Hành trình của một con chuột cảnh bị rơi xuống cống
+- [x] Minuscule - Valley of the Lost Ants (2013)
+- [x] Minuscule - Mandibles from Far Away (2019)
+- [x] Bạch Xà - Duyên Khởi
+- [x] Bạch Xà 2 - Thanh Xà Kiếp Khởi
 - [x] Free Guy
-- [x] [Back to Future](./Cinema/Back_to_Future.md)
+- [x] Back to Future
+  - **TODO** có cả một sequence nên xem hết nhá
 - [x] Blaze Runner 2049
-- [x] [Sausage Party](./Cinema/Sausage_Party.md)
+- [x] Sausage Party
+  - bệnh hoạn ✌️
 - [x] The Mummy (1999)
-- [x] [Treasure Planet](./Cinema/Treasure_Planet.md)
-- [x] [Wall E](./Cinema/Wall_E.md)
-- [x] [Lucy](./Cinema/Lucy.md)
-- [ ] [Minority Report (2002)](./Cinema/Minority_Report_2002.md)
-- [ ] [Altered Carbon - Resleeved (2020)](./Cinema/Altered_Carbon_Resleeved_2020.md)
-- [x] [9 (2009)](./Cinema/9_2009.md)
-- [x] [Abraham Lincoln - Vampire Hunter (2012)](./Cinema/Abraham_Lincoln_Vampire_Hunter_2012.md)
-- [x] [Army of the Dead (2021)](./Cinema/Army_of_the_Dead_2021.md)
-- [x] [Astro Boy (2003)](./Cinema/Astro_Boy_2003.md)
-- [x] [Atlantis](./Cinema/Atlantis.md)
-- [x] [Biệt Đội Bất Hảo](./Biệt_Đội_Bất_Hảo.md)
-- [x] [Chicken Run (2000)](./Cinema/Chicken_Run_2000.md)
-- [x] [click (2006)](./Cinema/Click_2006.md)
-- [x] [Coraline](./Cinema/Coraline.md)
-- [x] [Deep Rising (1998)](./Cinema/Deep_Rising_1998.md)
+- [x] Treasure Planet
+  - description: Cuộc phiêu lưu từng là giấc mơ thời bé của một đứa trẻ
+  - review: Một thời tuổi thơ
+- [x] Wall E
+  - Legendary
+- [x] Lucy
+- [ ] Minority Report (2002)
+- [ ] Altered Carbon - Resleeved (2020)
+- [x] 9 (2009)
+  - ![9_2009.png](./imgs/9_2009.png)
+  - một bộ phim về hậu tận thế xem khá là tò mò và lạ
+- [x] Abraham Lincoln - Vampire Hunter (2012)
+  - review: tổng thống đi săn zombie
+- [x] Army of the Dead (2021)
+- [x] Astro Boy (2003)
+- [x] Atlantis
+- [x] Biệt Đội Bất Hảo
+- [x] Chicken Run (2000)
+- [x] click (2006)
+- [x] Coraline
+  - description: Laika Laika
+- [x] Deep Rising (1998)
 - [x] Despicable Me
 - [x] Don't Breath
 - [x] Edward Scissorhands (1990)
@@ -60,7 +100,8 @@
 - [x] Godzilla (2014)
 - [x] Godzilla vs. Kong
 - [x] Godzilla x Kong: The new empire
-- [x] [Harry Potter](./Cinema/Harry_Potter.md)
+- [x] Harry Potter
+  - Part 1-7
 - [x] Hitman 47
 - [x] Interstella (2014)
 - [x] Iron Giant (1999)
@@ -75,29 +116,38 @@
 - [x] Pixcels (2015)
 - [x] Pirate of Caribean
 - [x] Plus One (2019)
-- [x] [Pride And Prejudice And Zombies (2016)](./Cinema/Pride_And_Prejudice_And_Zombies_2016.md)
-- [x] [Zathura: A Space Adventure](./Cinema/Zathura_A_Space_Adventure.md)
+- [x] Pride And Prejudice And Zombies (2016)
+- [x] Zathura: A Space Adventure
+  - hai anh em chơi trò chơi thế đéo nào bay mẹ ra ngoài vũ trụ
+  - hay phết, phim tuổi thơ
+  - [Boardgame này nhớ đọc kĩ hướng dẫn sử dụng trước khi dùng | Recap xàm: Zathura: : A Space Adventure](https://www.youtube.com/watch?v=XAE6hwrH-yk)
 - [x] Priest (2011)
 - [x] Rango
 - [x] Reign of Fire (2002)
-- [ ] [Resident Evil](./Cinema/Resident_Evil.md)
-- [x] [Silent Hill](./Cinema/Silent_Hill.md)
+- [x] Silent Hill
+  - description: Huyển thoại một thời
+  - review: Đỉnh của chóp, mỗi tội phần 2 hơi phèn
 - [x] Source Code
 - [ ] Space Pirate Captain Harlock (2013)
 - [x] Sweet Home (2020)
 - [x] The Addams
 - [x] The Day After Tomorrow (2004)
 - [x] The Last Witch Hunter
-- [ ] [The Man With The Iron Fists (2012)](./Cinema/The_Man_With_The_Iron_Fists_2012.md)
-- [ ] [The Matrix](./Cinema/The_Matrix.md)
+- [ ] The Man With The Iron Fists (2012)
+- [x] The Matrix
+- [x] The Matrix: Reload
+- [x] The Matrix Resurrections (2021)
 - [x] The Mist (2007)
-- [x] [Charlie and the Chocolate Factory](./Cinema/Charlie_and_the_Chocolate_Factory.md)
+- [x] Charlie and the Chocolate Factory
+  - year: 2005
+  - links: https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film)
+- [x] Wonka
+  - Spinoff
+  - year: 2023
 - [x] The Suicide Squad (2021)
 - [x] The Tomorrow War (2021)
 - [x] The Worlds End (2013)
 - [x] Tomorrowland (2015)
-- [ ] [Toy Story Series](./Cinema/Toy_Story_Series.md)
-- [ ] [Transformers Series](./Cinema/Transformers_Series.md)
 - [ ] Kingdom of the Planet of the Apes (2024)
 - [x] Tron Legacy
 - [x] Underwater (2020)
@@ -109,9 +159,11 @@
 - [ ] Spiderwick's Chronicles
 - [ ] The Wheel of Time (2023)
   - links: [https://www.youtube.com/watch?v=8bbG_Mxhoo8](https://www.youtube.com/watch?v=8bbG_Mxhoo8)
-- [x] [The Creator (2023)](./Cinema/The_Creator_2023.md)
-- [x] [M3gan (2023)](./Cinema/M3gan_2023.md)
-- [ ] [Phong Than Tam Bo Khuc](./Phong_Than_Tam_Bo_Khuc.md)
+- [x] The Creator (2023)
+- [x] M3gan (2023)
+- [ ] Phong Than Tam Bo Khuc
+  - links: [https://www.youtube.com/watch?v=3WRM061SDgo](https://www.youtube.com/watch?v=3WRM061SDgo)
+  - description: Girl xinh
 - [ ] [Noah (2014)](./Cinema/Noah_2014.md)
 - [ ] [Pulp Fiction (1994)](./Cinema/Pulp_Fiction_1994.md)
 - [ ] external sunshine of the spotless mind (2004)
@@ -119,14 +171,14 @@
 - [ ] Paranoidman
 - [ ] [Raw](./Cinema/Raw.md)
 - [ ] [Bone and all](./Cinema/Bone_and_All.md)
-- [x] [***Meet the Robinsons***](./Cinema/Meet_the_Robinsons.md)
+- [x] ***Meet the Robinsons***
 - [ ] Terrifier 2 (2022)
 - [ ] Terrifier 3 (2024)
 - [ ] Oz the great and powerfull
 - [ ] It follow
 - [ ] [Taxi Driver](./Cinema/Taxi_Driver.md)
 - [ ] [Memories of Geisha](./Cinema/Memories_of_Geisha.md)
-- [x] [Godzilla Minus One](./Cinema/Godzilla_Minus_One.md)
+- [x] Godzilla Minus One
 - [ ] Silo (2023)
 - [ ] Trick or Treat (2009)
 - [ ] [Total Recall](./Cinema/Total_Recall.md)
@@ -348,17 +400,53 @@
 
 # Avatars
 
-- [x] [Avatar (2008)](./Cinema/Avatar_2008.md)
-- [x] [Avatar: The Way of Water (2022)](./Cinema/Avatar_The_Way_of_Water_2022.md)
+- [x] Avatar (2008)
+- [x] Avatar: The Way of Water (2022)
 - [x] Avatar: Fire and Ash (2025)
 
 # [Dune: Trilogy](./Cinema/Dune_Trilogy.md)
 
 # A Quiet Place Series
 
-- [x] [A Quiet Place](./Cinema/A_Quiet_Place.md)
-- [x] [A Quiet Place Part II (2020)](./Cinema/A_Quiet_Place_Part_II_2020.md)
+- [x] A Quiet Place
+- [x] A Quiet Place Part II (2020)
 - [x] A Quiet Place: Day One (2024)
   - alien queen, but nothing special
 
 # [Alien series](./Alien_series.md)
+
+# [Toy Story Series](./Cinema/Toy_Story_Series.md)
+
+- [x]  1
+- [x]  2
+- [x]  3
+- [x]  4
+- [ ]  Light Year
+
+# [Resident Evil](./Cinema/Resident_Evil.md)
+
+- review: Milla Jocovick [https://en.m.wikipedia.org/wiki/Milla_Jovovich](https://en.m.wikipedia.org/wiki/Milla_Jovovich) she is so beautiful.
+- [x]  Resident Evil (2002)
+- [x]  Resident Evil - Afterlife (2010)
+- [x]  Resident Evil - Apocalypse (2004)
+- [x]  Resident Evil - Extinction (2007)
+- [x]  Resident Evil - Retribution (2012)
+- [x]  Resident Evil - The Final Chapter (2016)
+
+# Transformers Series
+
+- [x]  Transformer - The Movie (1986)
+- [x]  Transformers (Michael Bay)
+- [x]  Transformers 2 (Michael Bay)
+- [x]  Transformers 3 (Michael Bay)
+- [x]  Transformers 4 (Michael Bay)
+- [x]  Transformers 5 (Michael Bay)
+- [x]  Transformers: Bumblebee
+- [x]  Transformers: Rise of the beast
+- [x]  Transformers: One (2024)
+
+# [Mad max saga](./Cinema/Mad_max_saga.md)
+
+- review: what a day! what a lovely day!
+- [x] Mad Max - Fury Road (2015)
+- [x] Furiosa: A Mad Max Saga (2024)
