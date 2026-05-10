@@ -184,6 +184,9 @@
   - description: Canibal
   - year: 2022
 - [x] ***Meet the Robinsons***
+  - [https://en.wikipedia.org/wiki/Meet_the_Robinsons](https://en.wikipedia.org/wiki/Meet_the_Robinsons)
+  - du hành thời gian
+  - tuổi thơ
 - [ ] Terrifier 2 (2022)
 - [ ] Terrifier 3 (2024)
 - [ ] Oz the great and powerfull
@@ -289,6 +292,9 @@
 - [ ] Cukoo
   - [https://youtu.be/d5kfpwWMjU4?si=w6rPQXafrKbLkRzs](https://youtu.be/d5kfpwWMjU4?si=w6rPQXafrKbLkRzs)
 - [x] UP (Vút bay)
+  - Pixar
+  - [https://www.youtube.com/watch?v=ew-fVQyMZSo](https://www.youtube.com/watch?v=ew-fVQyMZSo)
+
 - [ ] [**The Substance (2024)**](https://www.imdb.com/title/tt17526714/)
 - [x] Quật mộ trùng ma
 - [ ] Infinity Pool (2023)
@@ -518,7 +524,9 @@
 - [x] The Truman Show (1998)
   - you'll never be the same person
 
-# [Studio Ghibli](./Studio_Ghibli.md)
+# Studio Ghibli
+
+![Studio_Ghibli_franchise_timeline.jpg](./imgs/Studio_Ghibli_franchise_timeline.jpg)
 
 - [x] Spirited Away
   - description: Studio Ghibli
@@ -540,7 +548,7 @@
   - vẫn kì ảo
   - về ý nghĩa thì ko rõ lắm tại ko thấy thông điệp gì mạnh mẽ cho lắm
 
-# [Gundam Universe](./Gundam_Universe.md)
+# Gundam Universe
 
 - [ ] Gundam Seed
 - [x] MS GUNDAM: IRON-BLOODED ORPHANS
@@ -548,11 +556,13 @@
 - [ ] **Gundam: Requiem for Vengeance (2024)**
   - [https://youtu.be/9YkiicfFoYg?si=l38zIZNfKMOUHgPJ](https://youtu.be/9YkiicfFoYg?si=l38zIZNfKMOUHgPJ)
 
-# [X trilogy](./X_trilogy.md)
+# X trilogy
+
+[https://www.youtube.com/watch?v=8vTKKarXqxc](https://www.youtube.com/watch?v=8vTKKarXqxc)
 
 - [x] X (2022)
 - [x] X: Perl (2022)
-  - ![X_Pearl.png](./X_Pearl.png)
+  - ![X_Pearl.png](./imgs/X_Pearl.png)
   - đỉnh cao tâm lý, nội tâm nhân vật, ko bị xôi thịt như p1
 - [x] X: Maxinne (2024)
 
@@ -573,7 +583,15 @@
 - [x] A Quiet Place: Day One (2024)
   - alien queen, but nothing special
 
-# [Alien series](./Alien_series.md)
+# Alien series
+
+- [x] Alien (1979) ✅
+- [x] Alien 2 ✅
+- [x] Alien 3 ✅
+- [x] Alien 4 ✅
+- [x] Alien Prometheus (2012) ✅
+- [x] Alice Covenant (2017) ✅
+- [x] ALIEN 5: Romulus (2024) ✅
 
 # [Toy Story Series](./Cinema/Toy_Story_Series.md)
 
