@@ -86,7 +86,7 @@
 - [x] Atlantis
 - [x] Biệt Đội Bất Hảo
 - [x] Chicken Run (2000)
-- [x] click (2006)
+- [x] Click (2006)
 - [x] Coraline
   - description: Laika Laika
 - [x] Deep Rising (1998)
@@ -134,13 +134,12 @@
 - [x] The Day After Tomorrow (2004)
 - [x] The Last Witch Hunter
 - [ ] The Man With The Iron Fists (2012)
-- [x] The Matrix
-- [x] The Matrix: Reload
-- [x] The Matrix Resurrections (2021)
 - [x] The Mist (2007)
 - [x] Charlie and the Chocolate Factory
   - year: 2005
   - links: https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film)
+  - Spinoffs:
+    - Wonka
 - [x] Wonka
   - Spinoff
   - year: 2023
@@ -160,7 +159,14 @@
 - [ ] The Wheel of Time (2023)
   - links: [https://www.youtube.com/watch?v=8bbG_Mxhoo8](https://www.youtube.com/watch?v=8bbG_Mxhoo8)
 - [x] The Creator (2023)
+  - ổn phết, phim ít tiền nhưng chất lượng rất ok
+  - links:
+    - https://www.youtube.com/watch?v=-aaMONCRNbs
+    - https://www.youtube.com/watch?v=7M337dHUZB8
 - [x] M3gan (2023)
+  - description: Robot AI
+  - review: Good for entertainment
+  - year: 2023
 - [ ] Phong Than Tam Bo Khuc
   - links: [https://www.youtube.com/watch?v=3WRM061SDgo](https://www.youtube.com/watch?v=3WRM061SDgo)
   - description: Girl xinh
@@ -197,6 +203,10 @@
   - links:
     - https://youtu.be/3qGymLVjeEM?si=ZpkgT_wP9EW3-QTX
 - [x] Godzilla Minus One
+  - xem cảm xúc phết
+  - đại loại đơn giản mà hiệu quả: quái giết người → giết quái
+  - links:
+    - https://en.wikipedia.org/wiki/Godzilla_Minus_One
 - [ ] Silo (2023)
 - [ ] Trick or Treat (2009)
 - [ ] Total Recall
@@ -566,15 +576,19 @@
   - đỉnh cao tâm lý, nội tâm nhân vật, ko bị xôi thịt như p1
 - [x] X: Maxinne (2024)
 
-# [Sonic the Hedgehog's series](./Cinema/Sonic_the_Hedgehog_Series.md)
+# [TODO] Sonic the Hedgehog's series
 
 # Avatars
 
 - [x] Avatar (2008)
 - [x] Avatar: The Way of Water (2022)
+  - ổn, đẹp nhưng cảm giác nó không đã như phần 1
 - [x] Avatar: Fire and Ash (2025)
 
-# [Dune: Trilogy](./Cinema/Dune_Trilogy.md)
+# Dune: Trilogy
+
+- [x] Dune Part One ✅
+- [x] Dune Part Two (2024) ✅
 
 # A Quiet Place Series
 
@@ -593,7 +607,7 @@
 - [x] Alice Covenant (2017) ✅
 - [x] ALIEN 5: Romulus (2024) ✅
 
-# [Toy Story Series](./Cinema/Toy_Story_Series.md)
+# Toy Story Series
 
 - [x]  1
 - [x]  2
@@ -603,7 +617,8 @@
 
 # [Resident Evil](./Cinema/Resident_Evil.md)
 
-- review: Milla Jocovick [https://en.m.wikipedia.org/wiki/Milla_Jovovich](https://en.m.wikipedia.org/wiki/Milla_Jovovich) she is so beautiful.
+Milla Jocovick [https://en.m.wikipedia.org/wiki/Milla_Jovovich](https://en.m.wikipedia.org/wiki/Milla_Jovovich) she is so beautiful.
+
 - [x]  Resident Evil (2002)
 - [x]  Resident Evil - Afterlife (2010)
 - [x]  Resident Evil - Apocalypse (2004)
@@ -648,3 +663,10 @@ Maybe you will never find another series like this in the future.
 - [x] Love, Death + Robots (SS3)
   - description: Vẫn đỉnh
   - review: Hay như phần một
+
+# The Matrix
+
+- [x] The Matrix
+- [x] The Matrix Reloaded
+- [x] The Matrix Revolutions
+- [x] The Matrix Resurrections (2021)
