@@ -450,3 +450,13 @@
 - review: what a day! what a lovely day!
 - [x] Mad Max - Fury Road (2015)
 - [x] Furiosa: A Mad Max Saga (2024)
+
+# [The Boys](https://en.wikipedia.org/wiki/The_Boys_(TV_series))
+
+Maybe you will never find another series like this in the future.
+
+- [x] The Boys SS1
+- [x] The Boys SS2
+- [x] The Boys SS3
+- [x] The Boys SS4
+- [x] The Boys SS5
