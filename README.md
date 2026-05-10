@@ -164,53 +164,78 @@
 - [ ] Phong Than Tam Bo Khuc
   - links: [https://www.youtube.com/watch?v=3WRM061SDgo](https://www.youtube.com/watch?v=3WRM061SDgo)
   - description: Girl xinh
-- [ ] [Noah (2014)](./Cinema/Noah_2014.md)
-- [ ] [Pulp Fiction (1994)](./Cinema/Pulp_Fiction_1994.md)
+- [ ] Noah (2014)
+  - description: Appocalypse
+  - year: 2014
+- [ ] Pulp Fiction (1994)
+  - year: 1994
 - [ ] external sunshine of the spotless mind (2004)
-- [ ] [The Great Gatsby](./Cinema/The_Great_Gatsby.md)
+- [ ] The Great Gatsby
+  - links:
+    - https://youtu.be/82Ivwtv9RIU?si=Ls2c249dMYvjMqFH
+  - description: Nhà giàu, tình tan, đời tàn
 - [ ] Paranoidman
-- [ ] [Raw](./Cinema/Raw.md)
-- [ ] [Bone and all](./Cinema/Bone_and_All.md)
+- [ ] Raw
+  - year: 2016
+  - description: Canibal
+  - links:
+    - https://youtu.be/76ZnRzo5ruM?si=EbTUi3ioDCHd8WGx
+- [ ] Bone and all
+  - description: Canibal
+  - year: 2022
 - [x] ***Meet the Robinsons***
 - [ ] Terrifier 2 (2022)
 - [ ] Terrifier 3 (2024)
 - [ ] Oz the great and powerfull
 - [ ] It follow
-- [ ] [Taxi Driver](./Cinema/Taxi_Driver.md)
-- [ ] [Memories of Geisha](./Cinema/Memories_of_Geisha.md)
+- [ ] Taxi Driver
+  - description: nặng đô, Martin Scocessi.
+- [ ] Memories of Geisha
+  - links:
+    - https://youtu.be/3qGymLVjeEM?si=ZpkgT_wP9EW3-QTX
 - [x] Godzilla Minus One
 - [ ] Silo (2023)
 - [ ] Trick or Treat (2009)
-- [ ] [Total Recall](./Cinema/Total_Recall.md)
-  - sci fi
+- [ ] Total Recall
+  - description: Em đang nơi nào
 - [ ] West World
   - sci fi
 - [ ] Foundation 2023
 - [ ] Red Sparrow (3x)
 - [ ] See (2021)
-- [ ] [Guillermo del Toro's Cabinet of Curiosities](./Cinema/Guillermo_del_Toro_Cabinet_of_Curiosities.md)
-- [ ] [Hardcore Henry (2015)](./Cinema/Hardcore_Henry_2015.md)
-- [ ] [MALÈNA: Con dao HAI LƯỠI mang tên SẮC ĐẸP](./Cinema/MALENA.md)
-- [ ] [1899](./Cinema/1899.md)
-- [ ] [Dogtooth](./Cinema/Dogtooth.md)
-- [ ] [WHERE THE CRAWDADS SING](./Cinema/WHERE_THE_CRAWDADS_SING.md)
-- [ ] [Upgrade](./Upgrade.md)
-- [ ] [Igra na vyzhivanie (TV Series) (2020)](./Igra_na_vyzhivanie_(TV_Series)_(2020).md)
-- [ ] [Mira (2023)](./Mira_(2023).md)
-- [ ] [The Mandalorian (STAR WAR)](./The_Mandalorian_(STAR_WAR).md)
-- [x] [A real young girl](./A_real_young_girl.md)
-- [x] [Crime of The Furture (2022)](./Crime_of_The_Furture_(2022).md)
-- [ ] [Three thoundsand years of longing (2022)](./Three_thoundsand_years_of_longing_(2022).md)
-- [ ] [Existenz 90s](./Existenz_90s.md)
-- [ ] [Smile 2022](./Smile_2022.md)
+- [ ] Guillermo del Toro's Cabinet of Curiosities
+- [ ] Hardcore Henry (2015)
+- [ ] MALÈNA: Con dao HAI LƯỠI mang tên SẮC ĐẸP
+- [ ] 1899
+- [ ] Dogtooth
+- [ ] WHERE THE CRAWDADS SING
+- [ ] Upgrade
+- [ ] Igra na vyzhivanie (TV Series) (2020)
+- [ ] Mira (2023)
+- [ ] The Mandalorian (STAR WAR)
+- [x] A real young girl
+  - description: xxx
+  - lú luôn, có cả quay cận cảnh
+  - nội dung thì ko thẩm được từ những năm 1967
+  - tiếng pháp hay tiếng đức gì đó
+  - haizzz
+- [x] Crime of The Furture (2022)
+  - hmm khó hiểu
+  - mà nữ chính đẹp và cho hết anh em xem
+- [ ] Three thoundsand years of longing (2022)
+- [ ] Existenz 90s
+- [ ] Smile 2022
 - [ ] Thập diện mai phục
-- [ ] [The House: Netflix](./The_House_Netflix.md)
-- [ ] [Air plane 1980](./Air_plane_1980.md)
-- [ ] [The interview (2014)](./The_interview_(2014).md)
-- [ ] [Tuker and dale vs devil](./Tuker_and_dale_vs_devil.md)
-- [ ] [Nobody](./Nobody.md)
-- [ ] [The Queen's Classroom (2005-2006)](./The_Queen's_Classroom_(2005-2006).md)
-- [ ] [Hannibal](./Hannibal.md)
+- [ ] The House: Netflix
+- [ ] Air plane 1980
+- [ ] The interview (2014)
+- [ ] Tuker and dale vs devil
+- [ ] Nobody
+- [ ] The Queen's Classroom (2005-2006)
+- [ ] Hannibal
+  - links:
+    - [Phê Phim: TẤT TẦN TẬT VỀ HANNIBAL (Phần 1)](https://www.youtube.com/watch?v=MEfSq7wmgLs)
+    - [Phê Phim: TẤT TẦN TẬT VỀ HANNIBAL (Phần cuối)](https://www.youtube.com/watch?v=3JvgdOL126Y)
 - [ ] Ghostbusters: After Life
 - [ ] Ghostbusters: Frozen Empire (2024)
 - [ ] Saw
@@ -220,14 +245,16 @@
 - [ ] Dredd
 - [ ] KLAUS
 - [ ] [CON NHÀ GIÀU "VƯỢT SƯỚNG" như thế nào? - GIẢI THÍCH KLAUS](https://www.youtube.com/watch?v=LCab1ueAsU4)
-- [ ] [Se7en (Seven)](./Se7en_(Seven).md)
+- [ ] Se7en (Seven)
+  - description: (kinh dị + trinh thám)
+  - [https://youtu.be/mL9aHJDGDrM?si=COmlXEcbun5WEO8w](https://youtu.be/mL9aHJDGDrM?si=COmlXEcbun5WEO8w)
 - [ ] American Psycho (2000)
-- [ ] [The Empty Man](./The_Empty_Man.md)
-- [ ] [The Magligent (2021)](./The_Magligent_(2021).md)
-- [ ] [I saw the devil (2010)](./I_saw_the_devil_(2010).md)
-- [ ] [The silent of the lambs](./The_silent_of_the_lambs.md)
-- [ ] [Suicide Club](./Suicide_Club.md)
-- [ ] [Fight Club - Stephen King](./Fight_Club_-_Stephen_King.md)
+- [ ] The Empty Man
+- [ ] The Magligent (2021)
+- [ ] I saw the devil (2010)
+- [ ] The silent of the lambs
+- [ ] Suicide Club
+- [ ] Fight Club - Stephen King
 - [ ] Drive (2011)
 - [ ] Men (2022)
 - [ ] Sói già phố wall
@@ -241,56 +268,97 @@
 - [ ] Perfume: The story of a murder
 - [ ] The shinning + Doctor Sleep
 - [ ] Thiên linh cái
-- [ ] [Fear and Hunger](./Fear_and_Hunger.md)
-- [ ] [**Shawshank Redemption**](./Shawshank_Redemption.md)
-- [ ] [Tokyo Vice](./Tokyo_Vice.md)
-- [ ] [The Prestige (2006)](./The_Prestige_(2006).md)
-- [ ] [ODDITY](./ODDITY.md)
-- [ ] [LATE NIGHT WITH THE DEVIL](./LATE_NIGHT_WITH_THE_DEVIL.md)
-- [ ] [**Corpes Bride**](./Corpes_Bride.md)
-- [ ] [Cukoo](./Cukoo.md)
-- [x] [UP (Vút bay)](./UP_(Vút_bay).md)
+- [ ] Fear and Hunger
+  - description: Dark fantasy, Mature
+- [ ] **Shawshank Redemption**
+  - [https://www.youtube.com/watch?v=GDy4TkdcVdA](https://www.youtube.com/watch?v=GDy4TkdcVdA)
+- [ ] Tokyo Vice
+  - [https://www.youtube.com/watch?v=pBHmrbsH3P8](https://www.youtube.com/watch?v=pBHmrbsH3P8)
+  - [https://www.youtube.com/watch?v=FZDFV_Duxsc](https://www.youtube.com/watch?v=FZDFV_Duxsc)
+- [ ] The Prestige (2006)
+  - nhân sinh quan
+  - hugh jackman trong vai ảo thuật gia muốn làm ảo thuật teleport một cách nhanh và chuẩn nhất bằng cách nhân bản chính bản thân mình.
+- [ ] ODDITY
+  - kinh dị tâm lý
+  - [https://www.youtube.com/watch?v=CbglKFHgWwg](https://www.youtube.com/watch?v=CbglKFHgWwg)
+- [ ] LATE NIGHT WITH THE DEVIL
+  - [https://www.youtube.com/watch?v=4qcxzFtG4W8](https://www.youtube.com/watch?v=4qcxzFtG4W8)
+- [ ] **Corpes Bride**
+  - [https://www.youtube.com/watch?v=GX75_OerkX0](https://www.youtube.com/watch?v=GX75_OerkX0)
+  - [https://www.youtube.com/watch?v=dZwewx9U7pE](https://www.youtube.com/watch?v=dZwewx9U7pE)
+- [ ] Cukoo
+  - [https://youtu.be/d5kfpwWMjU4?si=w6rPQXafrKbLkRzs](https://youtu.be/d5kfpwWMjU4?si=w6rPQXafrKbLkRzs)
+- [x] UP (Vút bay)
 - [ ] [**The Substance (2024)**](https://www.imdb.com/title/tt17526714/)
-- [x] [Quật mộ trùng ma](./Quật_mộ_trùng_ma.md)
-- [ ] [Infinity Pool (2023)](./Infinity_Pool_(2023).md)
-- [ ] [The breakfast club (1985)](./The_breakfast_club_(1985).md)
-- [x] [Quốc sản 007](./Quốc_sản_007.md)
-- [x] [A.I. Artificial Intelligence](./A_I_Artificial_Intelligence.md)
-- [ ] [**Small Soldiers (1998)**](./Small_Soldiers_(1998).md)
-- [ ] [Sicario 1+2 (Tội phạm mexico)](./Sicario_1+2_(Tội_phạm_mexico).md)
-- [ ] [**TIME STILL TURNS THE PAGES (áp lực học đường)**](./TIME_STILL_TURNS_THE_PAGES_(áp_lực_học_đường).md)
-- [x] [Secret Level 2024](./Secret_Level_2024.md)
-- [x] [Game of Thrones (A song of ice and fire)](./Game_of_Thrones_(A_song_of_ice_and_fire).md)
-- [ ] [LEGO NINJAGO](./LEGO_NINJAGO.md)
-- [ ] [The walking dead](./The_walking_dead.md)
-- [ ] [Love, Death + Robots](./Love,_Death_+_Robots.md)
-- [x] [Monarch: Legacy of Monsters (2023)](./Monarch_Legacy_of_Monsters_(2023).md)
-- [ ] [***The Lord of the Rings: The Rings of Power***](./The_Lord_of_the_Rings_The_Rings_of_Power.md)
-- [ ] [Chenobyl (2019)](./Chenobyl_(2019).md)
-- [ ] [Twisted Metal TV Series 2023](./Twisted_Metal_TV_Series_2023.md)
-- [x] [Arcane - RiotGames](./Arcane_-_RiotGames.md)
+- [x] Quật mộ trùng ma
+- [ ] Infinity Pool (2023)
+  - [[Review Phim] Tương Lai Người Giàu Có Thể Tự Do Phạm Tội Mà Không Chịu Hậu Quả](https://youtu.be/qicYq-KBDoY?si=W9pQgIwJleROOYJn)
+- [ ] The breakfast club (1985)
+  - [https://en.wikipedia.org/wiki/The_Breakfast_Club](https://en.wikipedia.org/wiki/The_Breakfast_Club)
+- [x] Quốc sản 007
+- [x] A.I. Artificial Intelligence
+  - [A.I. Artificial Intelligence](https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence)
+  - của đạo diễn Steven Spielberg
+  - mình xem qua một đoạn short trên youtube thì có cảnh người máy trông khá là hấp dẫn và cầu kỳ
+  - [A.I. Artificial Intelligence - Trí Tuệ Nhân Tạo - Học ngoại ngữ qua phim cùng FshareTV](https://fsharetv.com/w/a.i.-artificial-intelligence-episode-1-tt0212720)
+- [ ] **Small Soldiers (1998)**
+  - [Small Soldiers (1998) – "No Chip Goes to Waste!" Chip Hazard Resurrects His Army for All-Out War 🧠](https://www.youtube.com/shorts/RlQRLy-RmQs)
+- [ ] Sicario 1+2 (Tội phạm mexico)
+- [ ] **TIME STILL TURNS THE PAGES (áp lực học đường)**
+- [x] Secret Level 2024
+  - [https://en.wikipedia.org/wiki/Secret_Level](https://en.wikipedia.org/wiki/Secret_Level)
+  - Amazon Prime
+  - Tập 2 về sifu ổn phết đấy chứ: It’s a whole life
+  - Tập 4 Rebel Rebel Rebel
+  - SS1 khá là ok đấy chứ
+- [x] Game of Thrones (A song of ice and fire)
+- [ ] LEGO NINJAGO
+  - [https://www.youtube.com/playlist?list=PLMaE_6kSXQT_S2gKFSpspTeIsRMBQwJYb](https://www.youtube.com/playlist?list=PLMaE_6kSXQT_S2gKFSpspTeIsRMBQwJYb)
+- [ ] The walking dead
+  - mọe series tuổi thơ mà dài vl, không biết hết chưa
+- [x] Monarch: Legacy of Monsters (2023)
+- [ ] ***The Lord of the Rings: The Rings of Power***
+- [ ] Chenobyl (2019)
+- [ ] Twisted Metal TV Series 2023
+- [x] Arcane - RiotGames
 - [ ] Record of Lodoss War
 - [ ] Blade the Vampire Hunter (1981)
-- [ ] [Gintama](./Gintama.md)
+- [ ] Gintama
 - [ ] Akame Ga Kill
 - [ ] Zom 100: Bucket List of the Dead
 - [ ] Prison School
 - [ ] Windfall of the Dead
 - [ ] TENGOKU DAIMAKYOU
-- [x] [Cowboy Bebop](./Cowboy_Bebop.md)
+- [x] Cowboy Bebop
+  - Hay, nếu tìm hiểu về lịch sử của bộ phim này thì nó mang ý nghĩa rất lớn khi đem văn hoá anime của nhật bản sang cho các nước phương tây bằng một bộ phim rất chi là lạ mà hay
+  - Hay quá, kết trọn vẹn, cuộc hành trình nào cũng cần có hồi kết +1 respect 👍
 - [ ] Lupin
 - [x] Perfect blue
-- [x] [Roujin Z (1991)](./Roujin_Z_1991.md)
+- [x] Roujin Z (1991)
+  - well ~
+  - ![Roujin_Z_1991.png](./imgs/Roujin_Z_1991.png)
 - [ ] Gyo Junji Ito
 - [ ] Drifter
-- [x] [Record of Ragnarok](./Record_of_Ragnarok.md)
-- [x] [**JoJo's Bizarre Adventure**](./JoJo_Bizarre_Adventure.md)
+- [x] Record of Ragnarok
+  - Record of Ragnarok SS1 ✅
+  - Record of Ragnarok SS2 ✅
+- [x] **JoJo's Bizarre Adventure**
+  - JoJo SS1
+  - JoJo SS2
+  - JoJo SS3
+  - Thế đéo nào từ một cái mặt nạ mà ra được cả một nền văn hoá 🙂
 - [ ] JIGOKURAKU - Địa ngục cực lạc (Anime)
 - [ ] No Game, No Life
-- [ ] [Vinland Saga](./Vinland_Saga.md)
+- [ ] Vinland Saga
+  - AL Tổng Hợp [https://www.youtube.com/watch?v=5bSsIjlvATQ](https://www.youtube.com/watch?v=5bSsIjlvATQ)
 - [ ] Drifters
 - [ ] Ghost In The Shell: Innocence
-- [x] [Chainsaw Man](./Chainsaw_Man.md)
+- [x] Chainsaw Man
+  - description: Chainsaw Man Series
+  - review: Dark fantasy, Berseck-like
+  - [https://www.youtube.com/watch?v=dFP8HDreFM8](https://www.youtube.com/watch?v=dFP8HDreFM8)
+  - 2025 Horror/Adventure 1h 40m
+  - Refreshed, Open, Music, Combat, Action, Manga Respect
 - [ ] highlander the search for vengeance (2007)
 - [ ] hunter x hunter
 - [ ] Evangelion
@@ -301,7 +369,10 @@
 - [ ] full metal panic
 - [ ] eureka seven
 - [ ] tengen toppa gurren lagann
-- [x] [Made in Abyss](./Made_in_Abyss.md)
+- [x] Made in Abyss
+  - Phiêu lưu, tuổi thơ, trí tưởng tượng
+  - Made in Abyss (ss1) ✅
+  - Made in Abyss (ss2) ✅
 - [ ] re: zero
 - [ ] blood c (2011)
 - [ ] Hellsing (anime)
@@ -317,64 +388,141 @@
 - [x] Demon Slayer (SS1)
 - [x] Demon Slayer (SS2)
 - [x] Demon Slayer - Mugen Train
-- [x] [Parasite (Anime)](./Parasite_Anime.md)
+- [x] Parasite (Anime)
+  - Ký sinh trùng phiên bản anime: hay khỏi bàn rùi
 - [x] Jin-Roh: The Wolf Brigade
 - [x] Red Line (2005)
-- [x] [Berserk](./Berserk.md)
+- [x] Berserk
+  - Đỉnh của chóp
+  - links: [https://en.wikipedia.org/wiki/Berserk:_The_Golden_Age_Arc](https://en.wikipedia.org/wiki/Berserk:_The_Golden_Age_Arc)
+  - description: Dark fantasy, Mature
+  - review: Out of my mind
+  - hài, CGI tệ thành lịch sử luôn
+  - [BERSERK | HÀNH TRÌNH ĐẾN CÁI ÁC CỦA GRIFFITH !](https://youtu.be/sQVpZDPNEJ8?si=se0PkGd9kruTF5Vj)
 - [x] Ninja Scroll (1993)
 - [x] Vampire Hunter D: Bloodlust
-- [ ] [Vagabond](./Vagabond.md)
-- [ ] [Bibliomania](./Bibliomania.md)
-- [ ] [DORORO](./DORORO.md)
-- [x] [Death Parade](./Death_Parade.md)
-- [x] [Sword Art Online](./Sword_Art_Online.md)
+- [ ] Vagabond
+  - links: [TÓM TẮT | MANGA VAGABOND CHAP 1- 327](https://www.youtube.com/watch?v=Y-hJujqYDF0)
+- [ ] Bibliomania
+  - [Youtube - Trải Nghiệm Chuyến Phiêu Lưu Kinh Dị Trong Manga Bibliomania](https://youtu.be/ye0F-cgyKjs?si=X0WuOy1y-Qft-32V)
+- [ ] DORORO
+  - [TÓM TẮT | DORORO - SIÊU PHẨM DIỆT QUỶ | MẤT TAY MẤT CHÂN, THÌ ĐI KIẾM LẠI..!!](https://youtu.be/zKtykCSfD54?si=asG_GEq6JWimB2h2)
+- [x] Death Parade
+  - triết lý, chiêm nghiệm, original
+  - nhạc hay
+- [x] Sword Art Online
+  - Huyền thoại, khỏi bàn
 - [x] Darling in the Franxx
-- [x] [Akira (1988)](./Akira_1988.md)
-- [x] [Hyouka](./Hyouka.md)
+- [x] Akira (1988)
+  - hay
+- [x] Hyouka
+  - description: kem đá
 - [x] One-Punch Man
-- [x] [Attack on Titan](./Attack_on_Titan.md)
+- [x] Attack on Titan
+  - watched: true
+  - description: Hết nước chấm
+  - review: Ký ức không quên, một series dài mà tập đéo nào cũng hay, world building, coflict, giải quyết conflict, tính thực tế, uầy đủ cả
 - [x] Tokyo Ghoul
-- [ ] [Grantz O](./Grantz_O.md)
+- [ ] Grantz O
 - [x] Jujustu Kaisen (SS1)
 - [x] Tokyo Revenger (SS1)
-- [x] [Paprika](./Paprika.md)
-- [ ] [Trigun Stamdepe](./Trigun_Stamdepe.md)
-- [ ] [Suisei no Gargantia](./Suisei_no_Gargantia.md)
-- [x] [Cyberpunk 2077: Edge Runner](./Cyberpunk_2077_Edge_Runner.md)
-- [ ] [D-1 Devastator!](./D-1_Devastator!.md)
+- [x] Paprika
+  - description: Hack não, giấc mơ, em đang nơi nào
+  - review: Lú như con cú
+- [ ] Trigun Stamdepe
+  - description: Đẹp mắt, hiệp sĩ với cây thánh giá có thể biến hóa thành súng
+- [ ] Suisei no Gargantia
+  - description: yt shorts
+- [x] Cyberpunk 2077: Edge Runner
+  - description: Cyberpunk
+  - review: What I want
+  - in-memory: I really want to stay in your house
+- [ ] D-1 Devastator!
+  - description: Mecha
 - [ ] Metal Skin Panic MADOX-01
 - [x] Angel's Egg (1985)
-- [ ] [The Memories (1995)](./The_Memories_(1995).md)
-- [ ] [Castlevania](./Castlevania.md)
-- [ ] [**Terminator Zero (2024)**](./Terminator_Zero_(2024).md)
+- [ ] The Memories (1995)
+  - [Memories (1995) ⭐ 7.5 | Animation, Sci-Fi, Thriller](https://www.imdb.com/title/tt0113799/)
+- [ ] Castlevania
+  - [https://youtu.be/5sMNrFLPe5I?si=KMxC44vZCFB6w9Du](https://youtu.be/5sMNrFLPe5I?si=KMxC44vZCFB6w9Du)
+- [ ] **Terminator Zero (2024)**
+  - [https://youtu.be/ExCsdy4_kp8?si=gQOpxVgJPmTupflO](https://youtu.be/ExCsdy4_kp8?si=gQOpxVgJPmTupflO)
 - [ ] Pluto
-- [ ] [Blue eye samurai](./Blue_eye_samurai.md)
-- [x] [Kite 1998](./Kite_1998.md)
+- [ ] Blue eye samurai
+  - [https://youtu.be/U7zF7rtxKjI?si=QBaHzSMuBB6oqcMN](https://youtu.be/U7zF7rtxKjI?si=QBaHzSMuBB6oqcMN)
+- [x] Kite 1998
+  - [https://en.wikipedia.org/wiki/Kite_(1998_film)](https://en.wikipedia.org/wiki/Kite_(1998_film))
+  - 51min
+  - 3x
+  - low life, dark dark, bruh, lmao
 - [ ] Hell’s Paradise.
 - [x] Once Upon a Time in Hollywood
-- [x] [Evil Dead Series](./Evil_Dead_Series.md)
-- [x] [FLOW (lạc trôi) - 2024](./Flow_2024.md)
-- [x] [Bram Stoker's Dracula](./Bram_Stocker_Dracula_1992.md)
-- [x] [Water World 1995](./Water_World_1995.md)
-- [x] [Midsomar 2019](./Midsomar_2019.md)
-- [x] [Parasite Dolls (2003)](./Parasite_Dolls_2003.md)
-- [x] [Frankenstein (2025)](./Frankenstein_2025.md)
-- [x] [Kung Fu Hustle (2004)](./Kung_Fu_Hustle_2004.md)
-- [x] [Blink Twice](./Blink_Twice.md)
-- [x] [Together 2025](./Together_2025.md)
+- [x] Evil Dead Series
+  - [Evil Dead](https://en.wikipedia.org/wiki/Evil_Dead)
+  - ***The Evil Dead* (1981)** ✅
+  - ***Evil Dead II* (1987)** ✅
+  - ***Army of Darkness* (1992)** ✅
+  - gu phim ngày đó cũng kì
+  - cơ mà xem cũng khá là cuốn, hài vs giải trí
+  - hóng diễn biến tiếp theo
+  - nhân vật nữ nào cũng thấy có ấn tượng : )
+- [x] FLOW (lạc trôi) - 2024
+  - lấy bối cảnh hậu tận thế, chỉ có các loài vật còn tồn tại, ta quan sát một chú mèo trong đại hải trình
+  - Review của Phê Phim: https://youtu.be/cxqclRVEcpU?si=4f4E0Rlv0tjnc3WY
+- [x] Bram Stoker's Dracula
+  - 3x, Jhon Wick, Nosferatu
+- [x] Water World 1995
+  - Post apocalypsetic, surrounded by water and our promised dry land.
+  - What a journey, "Kho^ng se^n su'a" but realistic.
+- [x] Midsomar 2019
+  - religion, horror but bright
+- [x] Parasite Dolls (2003)
+  - https://en.wikipedia.org/wiki/Parasite_Dolls
+  - cyberpunk, a man inject drug to robots (boomers) to go crazy.
+  - and the chase from police, the suspect even re-direct police's target to good guy.
+  - well, it's a mature, violence, some romance, some friendships, some betrayals.
+  - it's a good one.
+- [x] Frankenstein (2025)
+  - Good to go, another approach, but still average.
+- [x] Kung Fu Hustle (2004)
+  - Tuyệt Đỉnh Kung Fu.
+  - More than meets the eye.
+  - Refreshed.
+  - Chau Tinh Tri - a Legendary.
+- [x] Blink Twice
+  - Good one. What do riches do?
+  - Like the girls.
+  - Review: https://youtu.be/kbkd7sGkaoE?si=icN3D3kd6QNAOi6g
+- [x] Together 2025
+  - stunning, interesting, love.
+  - graphic image.
+  - Love it in someways.
+  - Feels not "cheap".
+  - https://www.youtube.com/watch?v=rQ8qHA2hFCM
 - [x] Re:born 2016 https://www.youtube.com/shorts/3Z3pb2VJXao
 - [x] Immortals (2011)
   - nah
-- [x] [Sleeping Beauty (2011)](./Sleeping_Beauty_2011.md)
-- [x] [The Neon Demon (2016)](./The_Neon_Demon_2016.md)
-- [x] [The LEGO Batman Movie (2017)](./The_LEGO_Batman_Movie_2017.md)
-- [x] [IT: Welcome to Derry Chapter 1](./IT_Welcome_to_Derry_Chapter_1.md)
+- [x] Sleeping Beauty (2011)
+  - https://en.wikipedia.org/wiki/Sleeping_Beauty_(2011_film)
+  - 3x
+  - how rich lives?
+  - dark side of life?
+- [x] The Neon Demon (2016)
+  - sắc đẹp ám ảnh
+- [x] The LEGO Batman Movie (2017)
+  - 2017 ‧ Family/Comedy ‧ 1h 44m
+  - well, un-expected really meanful movie (as always).
+- [x] IT: Welcome to Derry Chapter 1
+  - amazing, beautiful
+  - core value remains
 - [x] The Truman Show (1998)
   - you'll never be the same person
 
 # [Studio Ghibli](./Studio_Ghibli.md)
 
-- [x] [Spirited Away](./Spirited_Away.md)
+- [x] Spirited Away
+  - description: Studio Ghibli
+  - review: Huyền thoại tuổi thơ
 - [x] The Wind Rises
 - [x] Howl Moving Castle
 - [x] From Up On Poppy Hill
@@ -382,18 +530,30 @@
 - [x] Princess Mononoke
 - [x] Nausicaa - Princess of the Valley
 - [x] Laputa Flying Castle
-- [x] [The Boy and the Heron](./The_Boy_and_the_Heron.md)
+- [x] The Boy and the Heron
+  - links:
+  - [https://en.wikipedia.org/wiki/The_Boy_and_the_Heron](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron)
+  - [THE BOY AND THE HERON: REVIEW & GIẢI THÍCH](https://www.youtube.com/watch?v=PpJGq21sr1U)
+  - Review
+  - vẫn lạ
+  - vẫn nhẹ nhàng
+  - vẫn kì ảo
+  - về ý nghĩa thì ko rõ lắm tại ko thấy thông điệp gì mạnh mẽ cho lắm
 
 # [Gundam Universe](./Gundam_Universe.md)
 
 - [ ] Gundam Seed
-- [x] [MS GUNDAM: IRON-BLOODED ORPHANS](./MS_GUNDAM_IRON-BLOODED_ORPHANS.md)
-- [ ] [**Gundam: Requiem for Vengeance (2024)**](./Gundam_Requiem_for_Vengeance_2024.md)
+- [x] MS GUNDAM: IRON-BLOODED ORPHANS
+  - [https://youtu.be/W_nNvzeh7WM?si=6Ts2U2nM0gq3Xf19](https://youtu.be/W_nNvzeh7WM?si=6Ts2U2nM0gq3Xf19)
+- [ ] **Gundam: Requiem for Vengeance (2024)**
+  - [https://youtu.be/9YkiicfFoYg?si=l38zIZNfKMOUHgPJ](https://youtu.be/9YkiicfFoYg?si=l38zIZNfKMOUHgPJ)
 
 # [X trilogy](./X_trilogy.md)
 
 - [x] X (2022)
-- [x] [X: Perl (2022)](./X_Pearl.md)
+- [x] X: Perl (2022)
+  - ![X_Pearl.png](./X_Pearl.png)
+  - đỉnh cao tâm lý, nội tâm nhân vật, ko bị xôi thịt như p1
 - [x] X: Maxinne (2024)
 
 # [Sonic the Hedgehog's series](./Cinema/Sonic_the_Hedgehog_Series.md)
@@ -460,3 +620,13 @@ Maybe you will never find another series like this in the future.
 - [x] The Boys SS3
 - [x] The Boys SS4
 - [x] The Boys SS5
+
+# Love, Death + Robots
+
+- [x] Love, Death + Robots (SS1)
+  - review: dinh cua chop
+- [x] Love, Death + Robots (SS2)
+  - review: Hơi mất chất
+- [x] Love, Death + Robots (SS3)
+  - description: Vẫn đỉnh
+  - review: Hay như phần một

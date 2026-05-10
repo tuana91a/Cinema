@@ -1,3 +1,0 @@
-# Hyouka ✅
-
-description: kem đá

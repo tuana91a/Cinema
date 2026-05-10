@@ -1,1 +1,0 @@
-# Game of Thrones (A song of ice and fire) ✅

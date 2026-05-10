@@ -1,1 +1,0 @@
-# Monarch: Legacy of Monsters (2023) ✅
