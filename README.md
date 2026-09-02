@@ -533,6 +533,8 @@
   - core value remains
 - [x] The Truman Show (1998)
   - you'll never be the same person
+- [x] The ballad of buster scruggs (2018)
+  - cowboy, refreshing, story of stories
 
 # Studio Ghibli
 
